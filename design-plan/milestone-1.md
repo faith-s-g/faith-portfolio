@@ -166,7 +166,7 @@ TODO: explain why the pages name make sense to the audience.
 
 ## Design Brainstorm
 > Brainstorm ideas for your website's design.
-> Sketch 3 **separate** design ideas for the homepage of your website. Provide a **narrow** and **wide** screen sketch for each design. (total 6 sketches)
+> Sketch 2 **separate** design ideas for the homepage of your website. Provide a **narrow** and **wide** screen sketch for each design. (total 2 sketches)
 
 TODO: brainstorm sketches
 
