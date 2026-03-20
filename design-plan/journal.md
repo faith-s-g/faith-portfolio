@@ -9,6 +9,3 @@ When updating, do **not** delete your original plan. Leave your original plan in
 ## Table of Contents
 
 - [Milestone 1](milestone-1.md)
-- [Milestone 2](milestone-2.md)
-- [Milestone 3](milestone-3.md)
-- [Final Milestone](milestone-final.md)
