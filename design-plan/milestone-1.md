@@ -22,10 +22,12 @@ My website will be a personal portfolio website that I can use when applyign for
 
 ## Example Website 1
 
-<TODO: website url>
-https://asmaa.dev/index.html
+website url: https://asmaa.dev/index.html
 
-![](TODO: screenshot path)
+Home screen mobile screenshots:
+![Home screen on a mobile phone of a portfolio website](images/ex-web-1-1.PNG)
+![Home screen on a mobile phone of a portfolio website](images/ex-web-1-2.PNG)
+![Home screen on a mobile phone of a portfolio website](images/ex-web-1-3.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
@@ -45,7 +47,7 @@ https://asmaa.dev/index.html
 <TODO: website url>
 https://www.glenelric.space/
 
-![Home screen on a mobile phone of a portfolio website](/workspaces/fsg27-project/images/ex-web-1-1.PNG)
+
 
 - Describe the theme of the website and the emotions it evokes.
 
