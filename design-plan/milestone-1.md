@@ -17,12 +17,13 @@
 >
 > Example: My website will be about the Grassroots festival in Trumansburg NY.
 
-TODO: tell us about your website
+My website will be a personal portfolio website that I can use when applyign for jobs and masters programs, and will include the following content: Information about my life, past data analytics projects I have completed, professional/club work so far, other extracurriculars I am involved in, and my resume/other links.
 
 
 ## Example Website 1
 
 <TODO: website url>
+https://asmaa.dev/index.html
 
 ![](TODO: screenshot path)
 
@@ -42,6 +43,7 @@ TODO: tell us about your website
 ## Example Website 2
 
 <TODO: website url>
+https://www.glenelric.space/
 
 ![](TODO: screenshot path)
 
