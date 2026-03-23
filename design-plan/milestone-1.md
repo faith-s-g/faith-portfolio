@@ -44,10 +44,12 @@ Home screen mobile screenshots:
 
 ## Example Website 2
 
-<TODO: website url>
 https://www.glenelric.space/
 
 
+![Home screen on a mobile phone of a portfolio website](images/ex-web-2-1.PNG)
+![Home screen on a mobile phone of a portfolio website](images/ex-web-2-2.PNG)
+![Home screen on a mobile phone of a portfolio website](images/ex-web-2-3.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
