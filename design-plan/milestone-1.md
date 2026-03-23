@@ -45,7 +45,7 @@ https://asmaa.dev/index.html
 <TODO: website url>
 https://www.glenelric.space/
 
-![](TODO: screenshot path)
+![Home screen on a mobile phone of a portfolio website](/workspaces/fsg27-project/images/ex-web-1-1.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
