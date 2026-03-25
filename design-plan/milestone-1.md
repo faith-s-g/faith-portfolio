@@ -161,6 +161,11 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
 3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
 
+Cumulative goals/common themes across interviews:
+   - The need to quickly be able to assess whether a candidate has the relevant skills and experience necessary to perform well in a new role
+   - Differentiate this candidate from others with similar profiles
+   - See in a clear and organized way what the candidate has achieved/is capable of whether that is through a resume, a website, or some other medium
+
 
 ## Planned Content
 > List **all** the content you plan to include in the website.
