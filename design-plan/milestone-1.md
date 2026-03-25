@@ -93,9 +93,21 @@ Participant #1 profile: Team lead at a large bank with 30+ years of experience i
 
 TODO: copy interview questions
 1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
-2.  Think about the last person you hired or recommended. How did you learn about their skills and experience?
-3.
-TODO: take notes inline with questions
+   - The last time Participant #1 assessed a candidate was for an open role in financial data analytics on the team
+   - The process was very long due to HR protocol and negotiations over wages + finding a candidate with skill alignment
+   - Follow-up question: How did you determine skill alignment?
+- Participant #1 read every single resume submitted to the job position to assess fit... very time consuming
+2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
+   - The primary way was through resume and then secondarily through interviews (if the candidates made it that far)
+   - Some people had an active linkedin presence or a online portfolio but not many
+3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
+   - Participant #1 searched them on Linkedin, clicked on any links from their resumes, some resumes had links to a portfolio via google drive/github/other common platforms
+   - The portfolios were about data analytics since that was what the team was hiring for
+   - This didn't happen for that many candidates
+4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
+   - Very clear explanations/sections about past roles and projects
+   - Readable font, clear sections, accurate descriptions
+   - Some form of helpful online presence (portfolios, linkedin, etc.)
 
 
 **Interviewee 2:**
