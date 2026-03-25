@@ -84,19 +84,17 @@ Questions:
 
 **Interviewee 1:**
 
-TODO: tell us a bit about your participant
 Participant #1 profile: Team lead at a large bank with 30+ years of experience in the financial services industry.
 - Age: 50s
 - Gender: Male
 - Criteria: Has had to evaluate prospective new team members, new hires, potential interns, etc.
 - Relation to interviewer: Parental
 
-TODO: copy interview questions
 1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
    - The last time Participant #1 assessed a candidate was for an open role in financial data analytics on the team
    - The process was very long due to HR protocol and negotiations over wages + finding a candidate with skill alignment
    - Follow-up question: How did you determine skill alignment?
-- Participant #1 read every single resume submitted to the job position to assess fit... very time consuming
+   - Participant #1 read every single resume submitted to the job position to assess fit... very time consuming
 2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
    - The primary way was through resume and then secondarily through interviews (if the candidates made it that far)
    - Some people had an active linkedin presence or a online portfolio but not many
@@ -112,17 +110,41 @@ TODO: copy interview questions
 
 **Interviewee 2:**
 
-TODO: tell us a bit about your participant
+Participant #2 Profile: participant #2 is in a leadership position on an consuling/data analytics project team at Cornell who has been responsible for evaluating new candidates for positions each semester
+    - Year: Junior
+    - Gender: Female
 
-TODO: copy interview questions
-TODO: take notes inline with questions
+1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
+   - The process was standard - people apply with their resumes and brief essays and then you go through each one
+   - Did not take a very long time, often spent maybe 20 seconds per resume/application
+   - Involved back and forth discussion with other people in the club
+2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
+   - Primarily through their resume, although sometimes also through their written responses to application questions
+   - If they made it to interview round then that was informative but many did not make it past
+3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
+   - If they mentioned a very unique activity (ie modeling) would google them
+   - If they had links in their resume to projects would click on them
+   - Follow-up question: What did these links usually go to?
+   - Usually a github page or linkedin profile (note that this participant did not mention portfolio/personal websites, possibly as many applicants to this club are underclassmen in college with limited actual work experience)
+4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
+   - Clear resume - main takeaway
+   - Organized experiences and good writing skills
 
 
 **Interviewee 3:**
 
-TODO: tell us a bit about your participant
+Participant #3 Profile: Cornell alum working in a big tech firm, has had experience helping recruiters recruit interns behind the scenes
+   - Age: mid-twenties
+   - Gender: female
+   - Role: Business Analyst
 
-TODO: copy interview questions
+1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
+2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
+3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
+4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
+
+
+
 TODO: take notes inline with questions
 
 
