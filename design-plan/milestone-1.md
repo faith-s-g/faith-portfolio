@@ -139,9 +139,20 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
    - Role: HR Business Analyst
 
 1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
+   - Participant #3 did not formally assess a candidate for a position but helped recruiters send out first-round invitations, respond via email to prospective candidates, monitored asynchronous hiring quiz process, etc.
+   - Participant #3 described the process as highly monotonous, many candidates, very similar profiles across applicants, makes sense as it was big intern cohort for a big firm…
+   - Very hard to separate candidates as some had marginal differences between them
 2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
+   - Quizzes, resumes, case assessments, etc. helped show skill
+   - Some more technologically-skilled candidates had portfolios/projects to showcase in the application - there was a separate section for links to personal projects and portfolios apparently
 3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
+   - Participant #3 did not look up/cannot recall looking candidates up online after seeing resume
+   - Said this was not typically encompassed in their role
 4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
+   - Candidates who had a lot of projects were good! Participant 3 highlighted how for tech positions that was favored over just describing work/name-dropping skills
+   - Mentions several candidates with good portfolios/project websites
+   - Says these were usually very tech-heavy candidates and adds that it would’ve been good for other prospective candidates to have profiles that included technical projects but also things like leadership, community building participation, etc. for a more holistic evaluation
+
 
 
 
