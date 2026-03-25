@@ -31,14 +31,15 @@ Home screen mobile screenshots:
 
 - Describe the theme of the website and the emotions it evokes.
 
-The theme of the website is creative and bold. There are pictures of art, pictures of cats, etc. and the text is bold with striking contrast. The meotions it evokes are curiosity and joy.
+Answer: The theme of the website is creative and bold. There are pictures of art, pictures of cats, etc. and the text is bold with striking contrast. The meotions it evokes are curiosity and joy.
 
 - Describe the responsiveness and layout for narrow and wide screens.
-This website is quite usable for both wide and narrow screens - the navigation bar turns into a menu, content goes from side-by-side to stacked vertically, etc. One flaw is that some of the content gets way too tiny when you view it on a narrow browser/iphone, but it is all technically working.
+
+Answer: This website is quite usable for both wide and narrow screens - the navigation bar turns into a menu, content goes from side-by-side to stacked vertically, etc. One flaw is that some of the content gets way too tiny when you view it on a narrow browser/iphone, but it is all technically working.
 
 - List some common design elements you see on this website that you may want to include in your own website.
 
-I really like how there's a navigation bar in wide screen mode that converts into a menu in narrow mode as that is very usable. I appreciate the framed content in wide mode as that makes things look organized and easy to see, and its more usable when it goes to narrow mode because it then stacks vertically.
+Answer: I really like how there's a navigation bar in wide screen mode that converts into a menu in narrow mode as that is very usable. I appreciate the framed content in wide mode as that makes things look organized and easy to see, and its more usable when it goes to narrow mode because it then stacks vertically.
 
 
 ## Example Website 2
@@ -52,15 +53,15 @@ https://www.glenelric.space/
 
 - Describe the theme of the website and the emotions it evokes.
 
-The theme of the website is very technology-centered and very bold/dramatic, as shown by the dark and constrasting colors (bold white text against a dark background) and the direct, concise projects listed on the home screen. The emotions it evokes are interest (the project titles and simple, bold style pull you in) and curiosity (you want to see more about the projects and this student's experiences)
+Answer: The theme of the website is very technology-centered and very bold/dramatic, as shown by the dark and constrasting colors (bold white text against a dark background) and the direct, concise projects listed on the home screen. The emotions it evokes are interest (the project titles and simple, bold style pull you in) and curiosity (you want to see more about the projects and this student's experiences)
 
 - Describe the responsiveness and layout for narrow and wide screens.
 
-I shrunk the browser in and out to test responsiveness on my laptop, and it is quite responsive - the website appears to be usable at every width on my laptop. However, some things are definitely lacking, like the buttons/links don't get bigger, the navigation bar does not convert to a menu, etc. On mobile phone, usability is rather bad, like some of the content (nav bar) just gets cut off and is unusable.
+Answer: I shrunk the browser in and out to test responsiveness on my laptop, and it is quite responsive - the website appears to be usable at every width on my laptop. However, some things are definitely lacking, like the buttons/links don't get bigger, the navigation bar does not convert to a menu, etc. On mobile phone, usability is rather bad, like some of the content (nav bar) just gets cut off and is unusable.
 
 - List some common design elements you see on this website that you may want to include in your own website.
 
-The navigation bar in the top right in wide screen is helpful and a familiar design pattern. The footer contains links to contact the author as well as other useful things like a resume, and the content is framed in wide screen mode.
+Answer: The navigation bar in the top right in wide screen is helpful and a familiar design pattern. The footer contains links to contact the author as well as other useful things like a resume, and the content is framed in wide screen mode.
 
 
 ## User Interview Planning
@@ -68,11 +69,10 @@ The navigation bar in the top right in wide screen is helpful and a familiar des
 
 TODO: add your questions here.
 
-1. TODO: question 1
-
-2. TODO: question 2
-
-3. TODO: ect. etc. etc.
+1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
+2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
+3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
+4. Tell me about a time you looked for more information about a candidate beyond what they gave you. How did that go?
 
 
 ## Interview Notes
