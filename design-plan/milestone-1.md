@@ -154,16 +154,12 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
    - Says these were usually very tech-heavy candidates and adds that it would’ve been good for other prospective candidates to have profiles that included technical projects but also things like leadership, community building participation, etc. for a more holistic evaluation
 
 
-
-
 ## Audience Goals
 > Analyze your audience's goals from your notes above.
 
-1. TODO: goal (1 sentence)
-2. TODO: goal (1 sentence)
-3. TODO: goal (1 sentence)
-
-TODO: add as many goals as needed
+1. Participant #1 goal: To identify the best candidate for the role on the team based on skills alignment and evaluation of fit for the position - relevant past experience did not seem super necessary, more potential fit for this role
+2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
+3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
 
 
 ## Planned Content
