@@ -67,12 +67,12 @@ Answer: The navigation bar in the top right in wide screen is helpful and a fami
 ## User Interview Planning
 > Plan the user interview which you'll use to identify the audience and their goals.
 
-TODO: add your questions here.
+Questions:
 
 1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
 2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
 3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
-4. Tell me about a time you looked for more information about a candidate beyond what they gave you. How did that go?
+4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
 
 
 ## Interview Notes
@@ -85,8 +85,16 @@ TODO: add your questions here.
 **Interviewee 1:**
 
 TODO: tell us a bit about your participant
+Participant #1 profile: Team lead at a large bank with 30+ years of experience in the financial services industry.
+- Age: 50s
+- Gender: Male
+- Criteria: Has had to evaluate prospective new team members, new hires, potential interns, etc.
+- Relation to interviewer: Parental
 
 TODO: copy interview questions
+1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
+2.  Think about the last person you hired or recommended. How did you learn about their skills and experience?
+3.
 TODO: take notes inline with questions
 
 
