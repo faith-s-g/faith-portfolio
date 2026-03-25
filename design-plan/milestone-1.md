@@ -145,9 +145,6 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 
 
 
-TODO: take notes inline with questions
-
-
 ## Audience Goals
 > Analyze your audience's goals from your notes above.
 
