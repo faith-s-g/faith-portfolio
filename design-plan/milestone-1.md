@@ -136,7 +136,7 @@ Participant #2 Profile: participant #2 is in a leadership position on an consuli
 Participant #3 Profile: Cornell alum working in a big tech firm, has had experience helping recruiters recruit interns behind the scenes
    - Age: mid-twenties
    - Gender: female
-   - Role: Business Analyst
+   - Role: HR Business Analyst
 
 1. Recall the last time you assessed a candidate for any sort of professional position (job, internship, pre-professional club, organization leadership role, etc.). Tell me: how did that experience go and what did the process look like?
 2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
