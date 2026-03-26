@@ -242,7 +242,7 @@ First, it makes sense because it clearly divides along the categories that the t
 
 > Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
-TODO: explain why the pages name make sense to the audience.
+The name "Home" makes intuitive sense as a landing page, as it is a very familiar naming choice. The ordering of the navigation bar also makes sense as it flows with thoughts - evaluators will care a lot about professional experience (which is clearly named as such) and then projects (also very clear). The fact that "community involvmement" and "personal" are clearly more informal allows viewers who are not interested in those aspects to save time and skip them entirely, while evaluators looking to assess culture fit and learn more about a candidate (perhaps for grad school or a specific program) may really appreciate having that information available. 
 
 
 ## Design Brainstorm
@@ -284,7 +284,7 @@ No collaborators for this project (interview participants do not count, asked in
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
 Utilized the portolio websites referenced in an above earlier question and here is the link to the full github list:
-https://github.com/emmabostian/developer-portfolios. I used this source for inspiration about portfolio websites, critiqued their designs, and familiarized myself with any design patterns they used that I liked. 
+https://github.com/emmabostian/developer-portfolios. I used this source for inspiration about portfolio websites, critiqued their designs, and familiarized myself with any design patterns they used that I liked.
 
 
 [← Table of Contents](journal.md)
