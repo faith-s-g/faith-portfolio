@@ -4,9 +4,10 @@ Open this repository as a Codespace on GitHub (or as a container in VS Code.)
 
 ## Instructions
 
-Follow the instructions for each milestone:
+Review the **requirements** and follow the **instructions** for each milestone:
 
-[Milestone 1 Write-Up](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m1.md)
+[Milestone 1](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m1.md) </br>
+[Milestone 2](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m2.md)
 
 ## Design Plan
 
