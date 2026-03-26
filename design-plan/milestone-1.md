@@ -196,14 +196,11 @@ Cumulative goals/common themes across interviews:
    - Link: Link to relevant certifications
 
 
-
-
-
 ## Content Justification
 > Explain why this content is the right content for your site's audience and how the content addresses their goals.
 > (1-3 sentences)
 
-TODO: justify your content decisions
+Recall that my site's audience includes people whose goal is to assess a candidate (me) for fit for a professional role. This content addresses the target audience’s goals by clearly presenting my skills and past/current experiences, showing real impact through projects, and consolidating everything in one place so that evaluators can efficiently understand my qualifications and assess fit for the role. Including personal content (interests, independent research, etc.) also addresses my audience's goal of differentiation, as my interviews showed me that people found it difficult to differentiate between candidates who only presented technical skills without a sense of personality or broader involvement in community activities.
 
 
 ## Content Organization
