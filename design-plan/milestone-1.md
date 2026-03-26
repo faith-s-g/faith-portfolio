@@ -227,11 +227,13 @@ Photos of the card sorting process:
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes (initially I combined community involvement and professional experience on the same page) - from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts).
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes that will be discussed in the next question.
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
 TODO: why does this organization make sense for your audience (not you)?
+
+First, it makes sense because it clearly divides along the categories that the target audience needs to use to evaluate candidates - your career interests and education are clearly seen right away on the home page, your projects have their own webpage so you can quickly assess technical fit, and your personal hobbies/interests are separate, but therefore can serve as a differentiator between candidates or to tell if the candidate would fit the company's culture. Initially, I combined community involvement and professional experience on the same page - but from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts). Second, it proceeds in a logical structure - the home page gives people an idea of who you are and roles you want, then you can go and look at projects and technical skills, and then to round out your evaluation of the candidate you can see personal interests, volunteering, etc. to determine fit. 
 
 
 ## Navigation
