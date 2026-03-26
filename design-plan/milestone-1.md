@@ -179,6 +179,7 @@ Cumulative goals/common themes across interviews:
    - Image: professional headshot
    - Image: informal personal photos for bio section
    - Image: project results/graphs for each analytics project
+   - Images: Data visualization gallery
    - Text: professional bio
    - Text: skills list (technical, coding, softwares)
    - Text: project descriptions, explanations, results, summaries
@@ -186,6 +187,8 @@ Cumulative goals/common themes across interviews:
    - Text: hobbies and personal interests
    - Text: contact information
    - Text: Career goals/interests statement
+   - Text: potentially an embedded writing sample from a project
+   - Text: leadership activities and experience
    - Link: resume PDF
    - Link: LinkedIn profile
    - Link: GitHub or project files
