@@ -234,10 +234,6 @@ First, it makes sense because it clearly divides along the categories that the t
 ## Navigation
 > Please list the pages you will include in your website's navigation.
 
-- TODO:
-- TODO: page 2
-- TODO: page 3
-- ...
 - Home (page 1)
 - Professional Experience (page 2)
 - Projects (page 3)
