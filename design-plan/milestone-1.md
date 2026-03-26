@@ -274,7 +274,7 @@ TODO: 1 paragraph
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-No collaborators (interview participants do not count, asked in OH)
+No collaborators for this project (interview participants do not count, asked in OH).
 
 
 ### Reference Resources
