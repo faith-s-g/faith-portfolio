@@ -253,7 +253,11 @@ NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing b
 > Brainstorm ideas for your website's design.
 > Sketch 2 **separate** design ideas for the homepage of your website. Provide a **narrow** and **wide** screen sketch for each design. (total 2 sketches)
 
-TODO: brainstorm sketches
+![Image of design 1 viewed on a mobile/narrow device)](images/design1_narrow.jpg)
+![Image of design 1 viewed on a desktop/wide device)](images/design1_wide.jpg)
+![Image of design 2 viewed on a mobile/narrow device)](images/design2_narrow.jpg)
+![Image of design 2 viewed on a desktop/wide device)](images/design2_wide.jpg)
+
 
 
 ## Entire Website's **Responsive** Design
