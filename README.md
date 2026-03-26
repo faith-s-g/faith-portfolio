@@ -17,9 +17,10 @@ Document your design and your plan in the [design journal](design-plan/journal.m
 | Project     | Deadline           | Slip Day Deadline   | Credit                   |
 | ------------| ------------------ | ------------------- | ------------------------ |
 | Milestone 1 | Wed 3/25, 11:59pm  | Fri 3/27, 11:59pm   | ~60-80 points            |
+| Milestone 2 | Wed 4/8, 11:59pm  | Fri 4/10, 11:59pm   | ~70-90 points            |
 
 You may use 1-2 slip days (max of 2 slip days) for milestones 1, 2, 3.
-There are 0 slip days for the final deliverable.
+There are 0 slip days available for the final deliverable.
 
 ## Resources
 
