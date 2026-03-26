@@ -284,7 +284,7 @@ No collaborators for this project (interview participants do not count, asked in
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
 Utilized the portolio websites referenced in an above earlier question and here is the link to the full github list:
-https://github.com/emmabostian/developer-portfolios
+https://github.com/emmabostian/developer-portfolios. I used this source for inspiration about portfolio websites, critiqued their designs, and familiarized myself with any design patterns they used that I liked. 
 
 
 [← Table of Contents](journal.md)
