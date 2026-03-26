@@ -210,7 +210,18 @@ Recall that my site's audience includes people whose goal is to differentiate be
 > Include photographic evidence of card sorting **and** description of your thought process. (1-2 sentences)
 > Please physically sort cards; please don't do this digitally.
 
-TODO: photos and explanation
+Explanation:
+
+
+NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For exapmle, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
+Photos of the card sorting process:
+![Global elements that will appear on every webpage](images/global_elements.jpg)
+![Home Page (card sorting)](images/home.jpg)
+![Professional development page (card sorting)](images/prof.jpg)
+![Projects page (card sorting)](images/projects.jpg)
+![Community involvement and leadership (card sorting)](images/community.jpg)
+![Personal page (card sorting)](images/personal.jpg)
+
 
 
 ## Final Content Organization
