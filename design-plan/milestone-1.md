@@ -263,7 +263,7 @@ TODO: 1 paragraph
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+No collaborators (interview participants do not count, asked in OH)
 
 
 ### Reference Resources
@@ -272,7 +272,8 @@ TODO: list your collaborators
 >
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
-TODO: list reference resources
+Utilized the portolio websites referenced in an above earlier question and here is the link to the full github list:
+https://github.com/emmabostian/developer-portfolios
 
 
 [← Table of Contents](journal.md)
