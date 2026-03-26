@@ -176,10 +176,24 @@ Cumulative goals/common themes across interviews:
 >
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
-- TODO: content description 1
-- TODO: content description 2
-- TODO: content description 3
-- ...
+   - Image: professional headshot
+   - Image: informal personal photos for bio section
+   - Image: project results/graphs for each analytics project
+   - Text: professional bio
+   - Text: skills list (technical, coding, softwares)
+   - Text: project descriptions, explanations, results, summaries
+   - Text: extracurricular and club involvement explanations
+   - Text: hobbies and personal interests
+   - Text: contact information
+   - Text: Career goals/interests statement
+   - Link: resume PDF
+   - Link: LinkedIn profile
+   - Link: GitHub or project files
+   - Link: Link to any published writing or poetry
+   - Link: Link to relevant certifications
+
+
+
 
 
 ## Content Justification
