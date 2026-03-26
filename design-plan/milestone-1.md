@@ -218,8 +218,7 @@ Photos of the card sorting process:
 ![Home Page (card sorting)](images/home.jpg)
 ![Professional development page (card sorting)](images/prof.jpg)
 ![Projects page (card sorting)](images/projects.jpg)
-![Community involvement and leadership (card sorting)](images/community.jpg)
-![Personal page (card sorting)](images/personal.jpg)
+
 
 
 ## Final Content Organization
@@ -229,7 +228,7 @@ The iteration of card sorting I will use for this website is described by the pi
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
-First, it makes sense because it clearly divides along the categories that the target audience needs to use to evaluate candidates - your career interests and education are clearly seen right away on the home page, your projects have their own webpage so you can quickly assess technical fit, and your personal hobbies/interests are separate, but therefore can serve as a differentiator between candidates or to tell if the candidate would fit the company's culture. Initially, I combined community involvement/volunteering and professional experiences on the same page, but ultimately decided against it - from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts and this way you don't mix up the experiences). Second, it proceeds in a logical structure - the home page gives people an idea of who you are and roles you want, then you can go and look at projects and technical skills, and then to round out your evaluation of the candidate you can see personal interests, volunteering, etc. to determine fit.
+First, it makes sense because it clearly divides along the categories that the target audience needs to use to evaluate candidates - your career interests and education are clearly seen right away on the home page, your projects have their own webpage so you can quickly assess technical fit, and your personal hobbies/interests/involvements are separate, but therefore can serve as a differentiator between candidates or to tell if the candidate would fit the company's culture. Initially, I combined community involvement/volunteering and professional experiences on the same page, but ultimately decided against it - from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts and this way you don't mix up the experiences). Second, it proceeds in a logical structure - the home page gives people an idea of who you are and roles you want, then you can go and look at projects and technical skills, and then to round out your evaluation of the candidate you can see personal interests, volunteering, etc. to determine fit.
 
 ## Navigation
 > Please list the pages you will include in your website's navigation.
@@ -237,13 +236,15 @@ First, it makes sense because it clearly divides along the categories that the t
 - Home (page 1)
 - Professional Experience (page 2)
 - Projects (page 3)
-- Community Involvement (page 4)
-- Personal (page 5)
+- Personal (page 4)
 
 > Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
-The name "Home" makes intuitive sense as a landing page, as it is a very familiar naming choice. The ordering of the navigation bar also makes sense as it flows with thoughts - evaluators will care a lot about professional experience (which is clearly named as such) and then projects (also very clear). The fact that "community involvmement" and "personal" are clearly more informal allows viewers who are not interested in those aspects to save time and skip them entirely, while evaluators looking to assess culture fit and learn more about a candidate (perhaps for grad school or a specific program) may really appreciate having that information available. 
+The name "Home" makes intuitive sense as a landing page, as it is a very familiar naming choice. The ordering of the navigation bar also makes sense as it flows with thoughts - evaluators will care a lot about professional experience (which is clearly named as such) and then projects (also very clear). The fact that "personal" is clearly more informal allows viewers who are not interested in those aspects to save time and skip them entirely, while evaluators looking to assess culture fit and learn more about a candidate (perhaps for grad school or a specific program) may really appreciate having that information available.
 
+
+
+NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing by hand on an IPad is permitted.
 
 ## Design Brainstorm
 > Brainstorm ideas for your website's design.
