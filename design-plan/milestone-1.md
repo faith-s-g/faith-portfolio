@@ -185,10 +185,12 @@ Cumulative goals/common themes across interviews:
    - Text: project descriptions, explanations, results, summaries
    - Text: extracurricular and club involvement explanations
    - Text: hobbies and personal interests
+   - Text: backstory + education
    - Text: contact information
    - Text: Career goals/interests statement
    - Text: potentially an embedded writing sample from a project
-   - Text: leadership activities and experience
+   - Text: leadership activities
+   - Text: Volunteering experience
    - Link: resume PDF
    - Link: LinkedIn profile
    - Link: GitHub or project files
