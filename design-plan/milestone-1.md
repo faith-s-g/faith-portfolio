@@ -227,7 +227,7 @@ Photos of the card sorting process:
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-TODO: tell us which iteration of card sorting you plan to use.
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes (initially I combined community involvement and professional experience on the same page) - from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts).
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
