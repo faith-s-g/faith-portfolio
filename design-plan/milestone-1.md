@@ -212,7 +212,6 @@ Recall that my site's audience includes people whose goal is to differentiate be
 
 Explanation: My thought process was to think from the perspective of the audience and what was going to be most important for me to see first when evaluating a candidate's fit, and that was most likely going to be my resume, skills, career interests, etc. which was why I put categorized some of those as global elements and others I put on the home page. Additionally, I thought it would be helpful to separate cleanly and organize clearly things like community involvement and professional work experience since those are things that the audience needs to use to evaluate/differentiate candidates.
 
-
 NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For exapmle, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
 Photos of the card sorting process:
 ![Global elements that will appear on every webpage](images/global_elements.jpg)
@@ -223,7 +222,6 @@ Photos of the card sorting process:
 ![Personal page (card sorting)](images/personal.jpg)
 
 
-
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
@@ -231,18 +229,20 @@ The iteration of card sorting I will use for this website is described by the pi
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
-TODO: why does this organization make sense for your audience (not you)?
-
 First, it makes sense because it clearly divides along the categories that the target audience needs to use to evaluate candidates - your career interests and education are clearly seen right away on the home page, your projects have their own webpage so you can quickly assess technical fit, and your personal hobbies/interests are separate, but therefore can serve as a differentiator between candidates or to tell if the candidate would fit the company's culture. Initially, I combined community involvement/volunteering and professional experiences on the same page, but ultimately decided against it - from the audience's perspective it seemed more helpful to split them (some people may only care about the work experience parts and this way you don't mix up the experiences). Second, it proceeds in a logical structure - the home page gives people an idea of who you are and roles you want, then you can go and look at projects and technical skills, and then to round out your evaluation of the candidate you can see personal interests, volunteering, etc. to determine fit.
-
 
 ## Navigation
 > Please list the pages you will include in your website's navigation.
 
-- TODO: page 1
+- TODO:
 - TODO: page 2
 - TODO: page 3
 - ...
+- Home (page 1)
+- Professional Experience (page 2)
+- Projects (page 3)
+- Community Involvement (page 4)
+- Personal (page 5)
 
 > Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
