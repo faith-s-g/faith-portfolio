@@ -218,6 +218,9 @@ Photos of the card sorting process:
 ![Home Page (card sorting)](images/home.jpg)
 ![Professional development page (card sorting)](images/prof.jpg)
 ![Projects page (card sorting)](images/projects.jpg)
+![Personal page (card sorting)](images/new_personal.jpg)
+
+
 
 
 
