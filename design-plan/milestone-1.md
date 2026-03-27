@@ -295,7 +295,8 @@ page 4/Personal: wide responsive design
 > Specially, why does your content organization, navigation, and site design/layout meet the goals of your users?
 > How did you employ familiarity (i.e. design patterns) to improve the usability of the site for your audience? (2-4 sentences)
 
-TODO: 1 paragraph
+The site's content organization and navigation are specifically designed to mirror how evaluators (the target audience in this case) naturally assess candidates. The “Home” page immediately establishes identity and career direction, “Professional Experience” and “Projects” encourage quick technical evaluation of skills and ability, and the “Personal” page provides holistic context for culture fit and well-roundedness. Each page is clearly and intuitively named so evaluators can navigate directly to what is most relevant to their needs, saving time during what my interviews revealed to be an often fast-paced and high-volume review process. To improve usability through familiarity, the wide screen layouts use a horizontal navigation bar at the top of the page, a very common design pattern on professional websites, while the narrow screens use a vertical stacked menu below the header. Additional familiar patterns include a consistent footer with contact information and links on every page, left-aligned body text for readability, centered headers for visual emphasis, and side-by-side content layouts on wide screens that collapse to vertically stacked (full width) layouts on narrow screens. All of these choices reduce wasted time for evaluators who benefit from a clean, predictable structure when reviewing many candidates quickly, and help provide much better perspectives on candidates in an efficient manner.
+
 
 
 ## References
