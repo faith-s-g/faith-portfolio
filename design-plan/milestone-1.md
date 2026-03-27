@@ -27,7 +27,6 @@ website url: https://asmaa.dev/index.html
 Home screen mobile screenshots:
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-1-1.PNG)
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-1-2.PNG)
-![Home screen on a mobile phone of a portfolio website](images/ex-web-1-3.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
@@ -49,7 +48,6 @@ https://www.glenelric.space/
 
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-2-1.PNG)
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-2-2.PNG)
-![Home screen on a mobile phone of a portfolio website](images/ex-web-2-3.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
