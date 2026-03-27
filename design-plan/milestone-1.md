@@ -165,7 +165,6 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 
 ## Audience Goals
 > Analyze your audience's goals from your notes above.
-
 1. Participant #1 goal: To identify the best candidate for the role on the team based on skills alignment and evaluation of fit for the position - relevant past experience did not seem super necessary, more potential fit for this role
 2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
 3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
@@ -185,6 +184,7 @@ IMPORTANT ANSWER GOALS: Cumulative goals/common themes across interviews:
 >
 > You should list all types of content you planned to include (i.e. text, photos, images, etc.)
 
+List of various content elements:
    - Image: professional headshot
    - Image: informal personal photos for bio section
    - Image: project results/graphs for each analytics project
@@ -236,7 +236,7 @@ Photos of the card sorting process:
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes that will be discussed in the next question.
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes (like community involvement was grouped with professional experience instead of personal - that is shown in the first iteration in the previous question).
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
