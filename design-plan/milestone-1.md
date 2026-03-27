@@ -73,6 +73,7 @@ Questions:
 2. Think about the last person you hired or recommended. How did you learn about their skills and experience?
 3. Recall the last time you looked up a candidate online after seeing their resume. Walk me through what you did.
 4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
+5. Think back to a time the candidate evaluation process felt particularly challenging or frustrating. What happened?
 
 
 ## Interview Notes
@@ -106,6 +107,9 @@ Participant #1 profile: Team lead at a large bank with 30+ years of experience i
    - Very clear explanations/sections about past roles and projects
    - Readable font, clear sections, accurate descriptions
    - Some form of helpful online presence (portfolios, linkedin, etc.)
+5. Think back to a time the candidate evaluation process felt particularly challenging or frustrating. What happened?
+   - HR issues/process delays due to nature of big company
+   - Many incompatible candidates who applied just to apply, took a long time to sort through
 
 
 **Interviewee 2:**
@@ -129,6 +133,9 @@ Participant #2 Profile: participant #2 is in a leadership position on an consuli
 4. Tell me about a candidate who made it easy to understand their experience. What did that look like?
    - Clear resume - main takeaway
    - Organized experiences and good writing skills
+5. Think back to a time the candidate evaluation process felt particularly challenging or frustrating. What happened?
+   - Again, hard to differentiate candidates, especially since many were at early stage in education/career
+   - Lots of very similarly structured resumes with similar content especially given rise in AI usage
 
 
 **Interviewee 3:**
@@ -152,6 +159,9 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
    - Candidates who had a lot of projects were good! Participant 3 highlighted how for tech positions that was favored over just describing work/name-dropping skills
    - Mentions several candidates with good portfolios/project websites
    - Says these were usually very tech-heavy candidates and adds that it would’ve been good for other prospective candidates to have profiles that included technical projects but also things like leadership, community building participation, etc. for a more holistic evaluation
+5. Think back to a time the candidate evaluation process felt particularly challenging or frustrating. What happened?
+   - Was often hard to determine candidate fit when there were marginal differences between resumes + essays
+   - Hard to figure out alignment with firm culture, social ability for team-oriented/group project roles, lots of resumes and AI edited text made it very hard to tell
 
 
 ## Audience Goals
