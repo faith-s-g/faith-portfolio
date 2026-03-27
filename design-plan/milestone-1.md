@@ -222,21 +222,31 @@ Recall that my site's audience includes people whose goal is to differentiate be
 Explanation: My thought process was to think from the perspective of the audience and what was going to be most important for me to see first when evaluating a candidate's fit, and that was most likely going to be my resume, skills, career interests, etc. which was why I put categorized some of those as global elements and others I put on the home page. Additionally, I thought it would be helpful to separate cleanly and organize clearly things like community involvement and professional work experience since those are things that the audience needs to use to evaluate/differentiate candidates.
 
 NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For exapmle, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
-Photos of the card sorting process:
+
+
+
+Photos of the card sorting process, first iteration:
+![Global elements that will appear on every webpage](images/global_elements.jpg)
+![Home Page (card sorting)](images/home.jpg)
+![Professional development page (card sorting)](images/prof.jpg)
+![Community Involvement (card sorting)](images/community.jpg)
+![First iteration personal page (card sorting)](images/old_personal.jpg)
+
+
+Photos of the card sorting process, final (2nd) iteration:
 ![Global elements that will appear on every webpage](images/global_elements.jpg)
 ![Home Page (card sorting)](images/home.jpg)
 ![Professional development page (card sorting)](images/prof.jpg)
 ![Projects page (card sorting)](images/projects.jpg)
 ![Personal page (card sorting)](images/new_personal.jpg)
 
-
-
+Key difference between iterations: community involvement no longer exists as its own page in the final iteration - its contents just got moved to "personal".
 
 
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question, but this was actually the 2nd iteration, as the first iteration I had included a few minor changes (like community involvement was grouped with professional experience instead of personal - that is shown in the first iteration in the previous question).
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question (iteration 2), but this was actually the 2nd iteration; in the first iteration I had included a few minor changes (like community involvement (volunteering, leadership, etc.) was in its own entire page instead of grouped under personal) that is shown in the first iteration in the previous question.
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
