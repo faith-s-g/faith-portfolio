@@ -285,6 +285,9 @@ NOTE: the labeling is contained in the "alt" for each image as well as in each i
 > Include the design of the _entire_ page, not just the top portion.
 > Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
+
+Note: a couple of times, some personal notes about where I would put a flexbox pop up. That was NOT intended to be a CSS or HTML annotation - it was only for my personal brainstorming and I just forgot to delete it before processing and uploading.
+
 Page 1/Home page: narrow responsive design
 ![Image of home screen viewed on a narrow screen/mobile device)](images/home-narrow.jpg)
 Page 1/Home page: wide responsive design
