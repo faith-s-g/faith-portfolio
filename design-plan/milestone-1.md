@@ -229,6 +229,7 @@ Photos of the card sorting process, first iteration:
 ![Global elements that will appear on every webpage](images/global_elements.jpg)
 ![Home Page (card sorting)](images/home.jpg)
 ![Professional development page (card sorting)](images/prof.jpg)
+![Projects page (card sorting)](images/projects.jpg)
 ![Community Involvement (card sorting)](images/community.jpg)
 ![First iteration personal page (card sorting)](images/old_personal.jpg)
 
