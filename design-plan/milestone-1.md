@@ -163,7 +163,6 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
    - Was often hard to determine candidate fit when there were marginal differences between resumes + essays
    - Hard to figure out alignment with firm culture, social ability for team-oriented/group project roles, lots of resumes and AI edited text made it very hard to tell
 
-
 ## Audience Goals
 > Analyze your audience's goals from your notes above.
 
@@ -171,10 +170,10 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
 3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
 
-Cumulative goals/common themes across interviews:
-   - The need to quickly be able to assess whether a candidate has the relevant skills and experience necessary to perform well in a new role
-   - Differentiate this candidate from others with similar profiles
-   - See in a clear and organized way what the candidate has achieved/is capable of whether that is through a resume, a website, or some other medium
+IMPORTANT ANSWER GOALS: Cumulative goals/common themes across interviews:
+   - The need to quickly be able to assess whether a candidate has the relevant skills, experience, and fit/alignment necessary to perform well in a new role in a firm
+   - Need to be able to better differentiate this candidate from others with similar profiles
+   - See and understand candidate profiles in a more clear, organized, and holistic way
 
 
 ## Planned Content
