@@ -253,6 +253,7 @@ NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing b
 > Brainstorm ideas for your website's design.
 > Sketch 2 **separate** design ideas for the homepage of your website. Provide a **narrow** and **wide** screen sketch for each design. (total 2 sketches)
 
+NOTE: the labeling is contained in the "alt" for each image as well as in each image so you can differentiate. There are 2 designs, and a wide and narrow rendering attached for each design.
 ![Image of design 1 viewed on a mobile/narrow device)](images/design1_narrow.jpg)
 ![Image of design 1 viewed on a desktop/wide device)](images/design1_wide.jpg)
 ![Image of design 2 viewed on a mobile/narrow device)](images/design2_narrow.jpg)
@@ -266,7 +267,27 @@ NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing b
 > Include the design of the _entire_ page, not just the top portion.
 > Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
-TODO: site sketches
+Page 1/Home page: narrow responsive design
+![Image of home screen viewed on a narrow screen/mobile device)](images/home-narrow.jpg)
+Page 1/Home page: wide responsive design
+![Image of home screen viewed on a wide screen/desktop device)](images/home-wide.jpg)
+Page 2/Professional Experience: narrow responsive design (split into 2 parts)
+![Image of professional experience screen viewed on a narrow screen/mobile device)](images/experience-narrow-1.jpg)
+![Image of professional experience screen viewed on a narrow screen/mobile device)](images/experience-narrow-2.jpg)
+Page 2/Professional Experience: wide responsive design
+![Image of professional experience screen viewed on a wide screen/desktop device)](images/experience-wide.jpg)
+Page 3/Projects: narrow responsive design
+![Image of projects screen viewed on a narrow screen/mobile device)](images/projects-narrow.jpg)
+Page 3/Projects: wide responsive design
+![Image of projects screen viewed on a wide screen/desktop device)](images/projects-wide.jpg)
+Page 4/Personal: narrow responsive design (split into 2)
+![Image of personal page viewed on a narrow screen/mobile device)](images/personal-narrow-1.jpg)
+![Image of personal page viewed on a narrow screen/mobile device)](images/personal-narrow-2.jpg)
+page 4/Personal: wide responsive design
+![Image of personal page viewed on a wide screen/desktop device)](images/personal-wide.jpg)
+
+
+
 
 
 ## Design Rationale
