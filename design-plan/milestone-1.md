@@ -24,6 +24,8 @@ My website will be a personal portfolio website that I can use when applying for
 
 website url: https://asmaa.dev/index.html
 
+My citation is to this url/creator:  https://asmaa.dev/index.html
+
 Home screen mobile screenshots:
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-1-1.PNG)
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-1-2.PNG)
@@ -43,7 +45,8 @@ Answer: I really like how there's a navigation bar in wide screen mode that conv
 
 ## Example Website 2
 
-https://www.glenelric.space/
+Website URL: https://www.glenelric.space/
+My citation is to this website/creator: https://www.glenelric.space/
 
 
 ![Home screen on a mobile phone of a portfolio website](images/ex-web-2-1.PNG)
@@ -60,6 +63,8 @@ Answer: I shrunk the browser in and out to test responsiveness on my laptop, and
 - List some common design elements you see on this website that you may want to include in your own website.
 
 Answer: The navigation bar in the top right in wide screen is helpful and a familiar design pattern. The footer contains links to contact the author as well as other useful things like a resume, and the content is framed in wide screen mode.
+
+Citation for this section (referred to the 2 websites linked and cited already), and this was drawn from a wider Github website in the references section.
 
 
 ## User Interview Planning
@@ -243,6 +248,8 @@ Photos of the card sorting process, final (2nd) iteration:
 
 Key difference between iterations: community involvement no longer exists as its own page in the final iteration - its contents just got moved to "personal".
 
+Source: original work (Faith Guan)
+
 
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
@@ -277,7 +284,7 @@ NOTE: the labeling is contained in the "alt" for each image as well as in each i
 ![Image of design 2 viewed on a mobile/narrow device)](images/design2_narrow.jpg)
 ![Image of design 2 viewed on a desktop/wide device)](images/design2_wide.jpg)
 
-
+Source: original work (Faith Guan)
 
 ## Entire Website's **Responsive** Design
 > Plan the design of the website.
@@ -308,7 +315,7 @@ page 4/Personal: wide responsive design
 ![Image of personal page viewed on a wide screen/desktop device)](images/personal-wide.jpg)
 
 
-
+Source: original work (Faith Guan)
 
 
 ## Design Rationale
