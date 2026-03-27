@@ -246,7 +246,7 @@ Key difference between iterations: community involvement no longer exists as its
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question (iteration 2), but this was actually the 2nd iteration; in the first iteration I had included a few minor changes (like community involvement (volunteering, leadership, etc.) was in its own entire page instead of grouped under personal) that is shown in the first iteration in the previous question.
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question (iteration 2), and this was the 2nd iteration; in the first iteration, community involvement (leadership, volunteering, etc.) was in its own entire page instead of grouped under personal, but this was too redundant, crowded for a navigation bar, and ultimately lacked substantial enough content to warrant its own page. 
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
