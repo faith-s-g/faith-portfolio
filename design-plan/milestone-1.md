@@ -165,7 +165,7 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 > Analyze your audience's goals from your notes above.
 
 (per-participant notes, final goals are below this)
-1. Participant #1 goal: To identify the best candidate for the role on the team based on skills alignment and evaluation of fit for the position - relevant past experience did not seem super necessary, more potential fit for this role
+1. Participant #1 goal: To identify the best candidate for the role on the team based on skills alignment and evaluation of fit for the position
 2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
 3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
 
@@ -219,7 +219,7 @@ Recall that my site's audience includes people whose goal is to differentiate be
 > Include photographic evidence of card sorting **and** description of your thought process. (1-2 sentences)
 > Please physically sort cards; please don't do this digitally.
 
-Explanation: My thought process was to think from the perspective of the audience and what was going to be most important for me to see first when evaluating a candidate's fit, and that was most likely going to be my resume, skills, career interests, etc. which was why I put categorized some of those as global elements and others I put on the home page. Additionally, I thought it would be helpful to separate cleanly and organize clearly things like community involvement and professional work experience since those are things that the audience needs to use to evaluate/differentiate candidates.
+Explanation: My thought process was to think from the perspective of the audience and what was going to be most important for me to see first when evaluating a candidate's fit, and that was most likely going to be my resume, skills, career interests, etc. which was why I put categorized some of those as global elements and others I put on the home page. Additionally, I thought it would be helpful to separate cleanly and organize clearly things like personal interests and professional work experience since those have very different value to evaluators but are both useful and distinct categories.
 
 NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For example, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
 
