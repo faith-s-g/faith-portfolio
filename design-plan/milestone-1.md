@@ -286,7 +286,7 @@ NOTE: the labeling is contained in the "alt" for each image as well as in each i
 > Label each sketch, so that we understand what page we are reviewing. (1 short phrase per sketch)
 
 
-Note: a couple of times, some personal notes about where I would put a flexbox pop up. That was NOT intended to be a CSS or HTML annotation - it was only for my personal brainstorming and I just forgot to delete it before processing and uploading.
+Note: in the first couple of home page sketches, some personal notes about where I would put a flexbox pop up. That was NOT intended to be a CSS or HTML annotation - it was only for my personal brainstorming and I just forgot to delete it before processing and uploading. Please ignore it.
 
 Page 1/Home page: narrow responsive design
 ![Image of home screen viewed on a narrow screen/mobile device)](images/home-narrow.jpg)
