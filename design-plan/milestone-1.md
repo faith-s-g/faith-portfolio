@@ -17,7 +17,7 @@
 >
 > Example: My website will be about the Grassroots festival in Trumansburg NY.
 
-My website will be a personal portfolio website that I can use when applyign for jobs and masters programs, and will include the following content: Information about my life, past data analytics projects I have completed, professional/club work so far, other extracurriculars I am involved in, and my resume/other links.
+My website will be a personal portfolio website that I can use when applying for jobs and masters programs, and will include the following content: Information about my life, past data analytics projects I have completed, professional/club work so far, other extracurriculars I am involved in, and my resume/other links.
 
 
 ## Example Website 1
@@ -31,7 +31,7 @@ Home screen mobile screenshots:
 
 - Describe the theme of the website and the emotions it evokes.
 
-Answer: The theme of the website is creative and bold. There are pictures of art, pictures of cats, etc. and the text is bold with striking contrast. The meotions it evokes are curiosity and joy.
+Answer: The theme of the website is creative and bold. There are pictures of art, pictures of cats, etc. and the text is bold with striking contrast. The emotions it evokes are curiosity and joy.
 
 - Describe the responsiveness and layout for narrow and wide screens.
 
@@ -114,7 +114,7 @@ Participant #1 profile: Team lead at a large bank with 30+ years of experience i
 
 **Interviewee 2:**
 
-Participant #2 Profile: participant #2 is in a leadership position on an consuling/data analytics project team at Cornell who has been responsible for evaluating new candidates for positions each semester
+Participant #2 Profile: participant #2 is in a leadership position on an consulting/data analytics project team at Cornell who has been responsible for evaluating new candidates for positions each semester
     - Year: Junior
     - Gender: Female
 
@@ -165,11 +165,13 @@ Participant #3 Profile: Cornell alum working in a big tech firm, has had experie
 
 ## Audience Goals
 > Analyze your audience's goals from your notes above.
+
+(per-participant notes, final goals are below this)
 1. Participant #1 goal: To identify the best candidate for the role on the team based on skills alignment and evaluation of fit for the position - relevant past experience did not seem super necessary, more potential fit for this role
 2. Participant #2 goal: To find best candidates to join the club (mentioned traits like dedication, social skills, etc.)
 3. Participant #3 goal: To be able to differentiate between different prospective applicant profiles to help recruit for the intern cohort position
 
-IMPORTANT ANSWER GOALS: Cumulative goals/common themes across interviews:
+Cumulative goals/common themes across interviews:
    - The need to quickly be able to assess whether a candidate has the relevant skills, experience, and fit/alignment necessary to perform well in a new role in a firm
    - Need to be able to better differentiate this candidate from others with similar profiles
    - See and understand candidate profiles in a more clear, organized, and holistic way
@@ -221,7 +223,7 @@ Recall that my site's audience includes people whose goal is to differentiate be
 
 Explanation: My thought process was to think from the perspective of the audience and what was going to be most important for me to see first when evaluating a candidate's fit, and that was most likely going to be my resume, skills, career interests, etc. which was why I put categorized some of those as global elements and others I put on the home page. Additionally, I thought it would be helpful to separate cleanly and organize clearly things like community involvement and professional work experience since those are things that the audience needs to use to evaluate/differentiate candidates.
 
-NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For exapmle, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
+NOTE: Each of the following photos is essentially one "webpage", with the top card (word underlined) being the theme of that webpage. The pictures were separated instead of 1 giant picture because when I crammed everything into one picture, the text was so small that it was all unreadable. The "global contents" picture is for elements that will have to appear on each and every page. For example, the home page picture contains all the elements that would appear on the home page (ex. Professional bio, skills list, etc.).
 
 
 
@@ -246,7 +248,7 @@ Key difference between iterations: community involvement no longer exists as its
 ## Final Content Organization
 > Which iteration of card sorting will you use for your website? (1 sentence)
 
-The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question (iteration 2), and this was the 2nd iteration; in the first iteration, community involvement (leadership, volunteering, etc.) was in its own entire page instead of grouped under personal, but this was too redundant, crowded for a navigation bar, and ultimately lacked substantial enough content to warrant its own page. 
+The iteration of card sorting I will use for this website is described by the pictures that I have attached in the previous question (iteration 2), and this was the 2nd iteration; in the first iteration, community involvement (leadership, volunteering, etc.) was in its own entire page instead of grouped under personal, but this was too redundant, crowded for a navigation bar, and ultimately lacked substantial enough content to warrant its own page.
 
 > Explain how the final organization of content is appropriate for your site's audiences. (1-2 sentences)
 
@@ -262,9 +264,7 @@ First, it makes sense because it clearly divides along the categories that the t
 
 > Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
-The name "Home" makes intuitive sense as a landing page, as it is a very familiar naming choice. The ordering of the navigation bar also makes sense as it flows with thoughts - evaluators will care a lot about professional experience (which is clearly named as such) and then projects (also very clear). The fact that "personal" is clearly more informal allows viewers who are not interested in those aspects to save time and skip them entirely, while evaluators looking to assess culture fit and learn more about a candidate (perhaps for grad school or a specific program) may really appreciate having that information available.
-
-
+The name "Home" makes intuitive sense as a landing page (it is a very familiar naming choice), and the ordering of the navigation bar also makes sense as it flows in the order of what evaluators find important (home, professional experience, and then projects, all of which are very clearly labeled). The fact that "personal" is clearly more informal allows viewers who are not interested in those aspects to save time and skip them entirely, while evaluators looking to assess culture fit and learn more about a candidate (perhaps for grad school or a specific program) may really appreciate having that information available.
 
 NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing by hand on an IPad is permitted.
 
