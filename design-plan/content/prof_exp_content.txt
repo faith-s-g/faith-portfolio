@@ -1,0 +1,74 @@
+﻿Work Experience
+
+
+Cornell University Department of Mathematics
+Teaching Assistant
+Ithaca, NY
+Aug. 2024 – Dec. 2024
+
+
+- Hosted weekly office hours for 50+ students in Cornell's advanced calculus course, providing structured feedback on homework and helping students work through difficult concepts in a collaborative setting.
+- Focused on meeting students where they were, building an inclusive environment for learners from a range of backgrounds and skill levels.
+- Strengthened my ability to communicate complex ideas clearly and adapt my explanations to different audiences, a skill I carry into every analytical role I take on.
+- Tools used: Course materials and grading rubrics
+
+
+Cornell University Press
+Metadata Analyst Intern
+Ithaca, NY
+Aug. 2024 – May 2025
+
+
+- Cleaned, organized, and interpreted datasets for 750+ publications, improving metadata accuracy and online discoverability.
+- Partnered with the Marketing team to redesign dataset handling processes, making information more accessible for customers and enabling stronger insights for digital strategy.
+- Gained hands-on experience translating messy, real-world data into structured, usable formats, and learned how data quality directly affects downstream decision-making.
+- Tools used: Excel, metadata management systems
+
+
+State Farm
+Operations Consulting Intern
+Bloomington, IL
+May 2025 – Aug. 2025
+
+
+- Conducted quantitative risk and performance analyses to identify operational inefficiencies, track KPIs, and support process improvement decisions across the department.
+- Built process maps and dashboards to give cross-functional teams clearer visibility into workflows, reducing lead times and supporting more informed decision-making.
+- Generated strategic recommendations through a combination of qualitative research and data-driven modeling, contributing to cost reductions of $547,350.
+- Tools used: Excel, Qlik Sense, Visio, project management tools
+
+
+Google Data Analytics Program
+Learner
+Remote
+Aug. 2025
+
+
+- Completed a professional certification program applying data cleaning, analysis, and visualization techniques to real-world datasets.
+- Finished a capstone project analyzing NYC rent price trends, examining economic and housing market factors driving shifts in rental affordability.
+- Tools used: SQL, R, Tableau
+
+
+Club & Organization Experience
+
+
+Cornell Global Research and Consulting
+Business Analyst and Project Lead
+Ithaca, NY
+Feb. 2024 – Present
+
+
+- Led a six-person consulting team advising an international MedTech startup on U.S. market entry strategies, conducting research and building a custom Excel dashboard to map 30+ potential partners.
+- Designed research frameworks and trend analyses for nonprofit clients, helping improve outreach efficiency and inform long-term growth strategies, including a partnership with Scouting America focused on membership retention.
+- Developed strong project management and client communication skills by working closely with organizations at different stages and with different needs.
+- Tools used: Excel, research and data analysis frameworks
+
+
+Scholars of Finance
+Financial Analyst
+Ithaca, NY
+Feb. 2024 – Present
+
+
+- Conducted financial modeling, company valuations, and market research across fintech and healthcare sectors, building analytical frameworks to assess company performance and growth potential.
+- Delivered investment presentations to industry professionals, translating complex financial findings into clear narratives and engaging in discussions on emerging trends in fintech, banking, and AI.
+- Tools used: Excel, PowerPoint, financial modeling frameworks
