@@ -1,12 +1,23 @@
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*BASIC mobile-first/narrow setup*/
 html {
     box-sizing: border-box;
+    border: 1px solid black;
+    background-color: white;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
 }
 
 /*general basic fonts, colors, sizes*/
 body {
-    background-color: #faf8f6;
     color: #3a3a3a;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 1px solid black;
+    padding: 1em;
 }
 
 /*mobile-first image settings*/
@@ -15,4 +26,73 @@ img {
     width: 100%;
     max-width: 600px;
     margin: 0.5em auto;
+    border: 1px solid black;
+}
+
+/*styling nav*/
+nav menu li {
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.25em;
+    border: none;
+}
+
+nav menu li a {
+    text-decoration: none;
+}
+
+menu {
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    border: none;
+}
+
+nav a {
+    display: block;
+    padding: 1rem 1rem;
+    text-align: center;
+    font-weight: 400;
+    background-color: #93c6e0;
+    border-radius: 50px;
+    color: black;
+}
+
+menu {
+    gap: 1rem;
+}
+
+/*this is just to see better*/
+div {
+    border: 1px solid black;
+}
+
+p {
+    border: 1px solid black;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*BASIC UTILITY CLASSES*/
+.center {
+    text-align: center;
+}
+
+.home_section {
+    padding: 1em;
+    margin: 0;
+    background-color: #f5e6e0;
+    /*border-bottom: 1.5px solid #bdbab2;*/
+    border-radius: 20px;
+    margin: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.footer_class {
+    background-color: #e8e3f3;
+    color: black;
 }
