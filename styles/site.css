@@ -129,7 +129,7 @@ section section {
     background-color: transparent;
 }
 
-section section + section {
+section section+section {
     border-top: 1px solid var(--border);
     padding-top: 1.5rem;
 }
@@ -175,12 +175,9 @@ article h4 {
     border-left: 4px solid var(--lavender);
     padding: 1rem;
     border-radius: 8px;
-    overflow-x: auto;
     font-size: 0.95rem;
     line-height: 1.6;
     color: var(--dark-text);
-    white-space: pre-wrap;
-    word-break: break-word;
     margin-bottom: 1rem;
     font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
 }
