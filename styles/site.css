@@ -62,9 +62,9 @@ nav a {
 
 
 /*this is just to see better*/
-div {
+/*div {
     border: 1px solid black;
-}
+}*/
 
 
 footer {
@@ -77,13 +77,13 @@ footer {
 
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-/*BASIC UTILITY CLASSES*/
+/*Style CLASSES*/
 .center {
     text-align: center;
 }
 
 .home_section {
-    padding: 1em;
+    padding: 1.5em;
     background-color: #f5e6e0;
     border-radius: 20px;
     margin: 15px 0;
@@ -91,7 +91,7 @@ footer {
     border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
-.text_paragraph {
+.div_text_paragraph {
     border: 1px solid #4a4040;
     background-color: #FFFFFF;
     padding: 0.75em;
@@ -103,7 +103,7 @@ footer {
     color: #4a4040;
     border-radius: 20px;
     border: none;
-    font-size: 12px;
+    font-size: 16px;
     text-decoration: none;
 
 }
@@ -116,9 +116,32 @@ footer {
 .page_title {
     border-bottom: 1.5px solid #bdbab2;
     margin-bottom: 1em;
-    padding-bottom: 10px;
+    padding-bottom: 25px;
+    font-weight: 200;
 }
 
 .mobile_nav_styling {
     border-bottom: 1.5px solid #bdbab2;
+}
+
+.footer_divider {
+    border-bottom: 1.5px dashed #4a4040;
+    width: 20%;
+    margin: 0 auto;
+}
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*FLEXBOX CLASSES*/
+.footer_inner_flex {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5em;
+}
+
+.footer_outer_flex {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    align-items: center;
+    margin-top: 0.5em;
 }
