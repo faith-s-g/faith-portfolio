@@ -26,11 +26,6 @@ body {
 }
 
 
-
-/*header {
-    background-color: #FFFFFF;
-}*/
-
 nav menu li a,
 .div_text_paragraph {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
@@ -153,7 +148,7 @@ footer {
 }
 
 .page_title {
-    border-bottom: 1.5px solid #bdbab2;
+    border-bottom: 1.25px solid #bdbab2;
     margin-bottom: 1em;
     padding-bottom: 25px;
     font-weight: 200;
