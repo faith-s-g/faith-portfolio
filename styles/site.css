@@ -16,6 +16,9 @@ body {
     color: #4a4040;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 1em;
+    /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 /*mobile-first image settings*/
@@ -134,8 +137,7 @@ footer {
     border-radius: 50%;
     aspect-ratio: 1 / 1;
     object-fit: cover;
-    width: 40%;
-    min-width: 300px;
+    width: 75%;
     max-width: 600px;
 }
 
