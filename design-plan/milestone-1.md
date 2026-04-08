@@ -27,8 +27,8 @@ website url: https://asmaa.dev/index.html
 My citation is to this url/creator:  https://asmaa.dev/index.html
 
 Home screen mobile screenshots:
-![Home screen on a mobile phone of a portfolio website](images/ex-web-1-1.PNG)
-![Home screen on a mobile phone of a portfolio website](images/ex-web-1-2.PNG)
+![Home screen on a mobile phone of a portfolio website](../images/ex-web-1-1.PNG)
+![Home screen on a mobile phone of a portfolio website](../images/ex-web-1-2.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
@@ -49,8 +49,8 @@ Website URL: https://www.glenelric.space/
 My citation is to this website/creator: https://www.glenelric.space/
 
 
-![Home screen on a mobile phone of a portfolio website](images/ex-web-2-1.PNG)
-![Home screen on a mobile phone of a portfolio website](images/ex-web-2-2.PNG)
+![Home screen on a mobile phone of a portfolio website](../images/ex-web-2-1.PNG)
+![Home screen on a mobile phone of a portfolio website](../images/ex-web-2-2.PNG)
 
 - Describe the theme of the website and the emotions it evokes.
 
@@ -231,20 +231,20 @@ NOTE: Each of the following photos is essentially one "webpage", with the top ca
 
 
 Photos of the card sorting process, first iteration:
-![Global elements that will appear on every webpage](images/global_elements.jpg)
-![Home Page (card sorting)](images/home.jpg)
-![Professional development page (card sorting)](images/prof.jpg)
-![Projects page (card sorting)](images/projects.jpg)
-![Community Involvement (card sorting)](images/community.jpg)
-![First iteration personal page (card sorting)](images/old_personal.jpg)
+![Global elements that will appear on every webpage](../images/global_elements.jpg)
+![Home Page (card sorting)](.//images/home.jpg)
+![Professional development page (card sorting)](../images/prof.jpg)
+![Projects page (card sorting)](../images/projects.jpg)
+![Community Involvement (card sorting)](../images/community.jpg)
+![First iteration personal page (card sorting)](../images/old_personal.jpg)
 
 
 Photos of the card sorting process, final (2nd) iteration:
-![Global elements that will appear on every webpage](images/global_elements.jpg)
-![Home Page (card sorting)](images/home.jpg)
-![Professional development page (card sorting)](images/prof.jpg)
-![Projects page (card sorting)](images/projects.jpg)
-![Personal page (card sorting)](images/new_personal.jpg)
+![Global elements that will appear on every webpage](../images/global_elements.jpg)
+![Home Page (card sorting)](../images/home.jpg)
+![Professional development page (card sorting)](../images/prof.jpg)
+![Projects page (card sorting)](../images/projects.jpg)
+![Personal page (card sorting)](../images/new_personal.jpg)
 
 Key difference between iterations: community involvement no longer exists as its own page in the final iteration - its contents just got moved to "personal".
 
@@ -279,10 +279,10 @@ NOTE: for following sketches, it was confirmed by Prof. Westwater that drawing b
 > Sketch 2 **separate** design ideas for the homepage of your website. Provide a **narrow** and **wide** screen sketch for each design. (total 2 sketches)
 
 NOTE: the labeling is contained in the "alt" for each image as well as in each image so you can differentiate. There are 2 designs, and a wide and narrow rendering attached for each design.
-![Image of design 1 viewed on a mobile/narrow device)](images/design1_narrow.jpg)
-![Image of design 1 viewed on a desktop/wide device)](images/design1_wide.jpg)
-![Image of design 2 viewed on a mobile/narrow device)](images/design2_narrow.jpg)
-![Image of design 2 viewed on a desktop/wide device)](images/design2_wide.jpg)
+![Image of design 1 viewed on a mobile/narrow device](../images/design1_narrow.jpg)
+![Image of design 1 viewed on a desktop/wide device](../images/design1_wide.jpg)
+![Image of design 2 viewed on a mobile/narrow device](../images/design2_narrow.jpg)
+![Image of design 2 viewed on a desktop/wide device](../images/design2_wide.jpg)
 
 Source: original work (Faith Guan)
 
@@ -296,23 +296,23 @@ Source: original work (Faith Guan)
 Note: in the first couple of home page sketches, some personal notes about where I would put a flexbox pop up. That was NOT intended to be a CSS or HTML annotation - it was only for my personal brainstorming and I just forgot to delete it before processing and uploading. Please ignore it.
 
 Page 1/Home page: narrow responsive design
-![Image of home screen viewed on a narrow screen/mobile device)](images/home-narrow.jpg)
+![Image of home screen viewed on a narrow screen/mobile device](../images/home-narrow.jpg)
 Page 1/Home page: wide responsive design
-![Image of home screen viewed on a wide screen/desktop device)](images/home-wide.jpg)
+![Image of home screen viewed on a wide screen/desktop device](../images/home-wide.jpg)
 Page 2/Professional Experience: narrow responsive design (split into 2 parts)
-![Image of professional experience screen viewed on a narrow screen/mobile device)](images/experience-narrow-1.jpg)
-![Image of professional experience screen viewed on a narrow screen/mobile device)](images/experience-narrow-2.jpg)
+![Image of professional experience screen viewed on a narrow screen/mobile device](../images/experience-narrow-1.jpg)
+![Image of professional experience screen viewed on a narrow screen/mobile device](../images/experience-narrow-2.jpg)
 Page 2/Professional Experience: wide responsive design
-![Image of professional experience screen viewed on a wide screen/desktop device)](images/experience-wide.jpg)
+![Image of professional experience screen viewed on a wide screen/desktop device](../images/experience-wide.jpg)
 Page 3/Projects: narrow responsive design
-![Image of projects screen viewed on a narrow screen/mobile device)](images/projects-narrow.jpg)
+![Image of projects screen viewed on a narrow screen/mobile device](../images/projects-narrow.jpg)
 Page 3/Projects: wide responsive design
-![Image of projects screen viewed on a wide screen/desktop device)](images/projects-wide.jpg)
+![Image of projects screen viewed on a wide screen/desktop device](../images/projects-wide.jpg)
 Page 4/Personal: narrow responsive design (split into 2)
-![Image of personal page viewed on a narrow screen/mobile device)](images/personal-narrow-1.jpg)
-![Image of personal page viewed on a narrow screen/mobile device)](images/personal-narrow-2.jpg)
+![Image of personal page viewed on a narrow screen/mobile device](../images/personal-narrow-1.jpg)
+![Image of personal page viewed on a narrow screen/mobile device](../images/personal-narrow-2.jpg)
 page 4/Personal: wide responsive design
-![Image of personal page viewed on a wide screen/desktop device)](images/personal-wide.jpg)
+![Image of personal page viewed on a wide screen/desktop device](../images/personal-wide.jpg)
 
 
 Source: original work (Faith Guan)
