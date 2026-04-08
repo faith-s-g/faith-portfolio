@@ -17,13 +17,19 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 2em;
     /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
-    max-width: 1000px;
+    max-width: 1200px;
     margin: 0 auto;
-    /*for decoration...*/
     background-image: radial-gradient(#bdbab2 0.8px, transparent 0.8px);
     background-size: 25px 25px;
+    /*for decoration...*/
     /*cite later: https://css-irl.info/css-halftone-patterns/*/
 }
+
+
+
+/*header {
+    background-color: #FFFFFF;
+}*/
 
 nav menu li a,
 .div_text_paragraph {
@@ -128,6 +134,7 @@ footer {
     background-color: #FFFFFF;
     padding: 0.75em;
     border-radius: 8px;
+    font-size: 1.25em;
 }
 
 .footer_class {
@@ -224,6 +231,11 @@ footer {
     max-width: 200px;
     height: auto;
     margin: 0 auto;
+}
+
+.top-content {
+    background-color: #FFFFFF;
+    margin: 0;
 }
 
 header h1 {
