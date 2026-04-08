@@ -281,7 +281,7 @@ header h1 {
 /*This is to indicate what page you're on when you're on it or when you're clicking the link*/
 nav a.active {
     background-color: #4e5c4e;
-    font-weight: 700;
+    /*font-weight: 700;*/
     color: #FFFFFF;
 }
 
