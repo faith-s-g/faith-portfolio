@@ -130,6 +130,15 @@ footer {
     margin: 0 auto;
 }
 
+.home_headshot_img {
+    border-radius: 50%;
+    aspect-ratio: 1 / 1;
+    object-fit: cover;
+    width: 40%;
+    min-width: 300px;
+    max-width: 600px;
+}
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
 .footer_inner_flex {
@@ -144,4 +153,14 @@ footer {
     gap: 0.5em;
     align-items: center;
     margin-top: 0.5em;
+}
+
+.nav_menu_flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.home_aboutme_flex {
+    display: flex;
+    flex-direction: column;
 }
