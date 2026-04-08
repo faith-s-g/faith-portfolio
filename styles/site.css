@@ -19,12 +19,14 @@ body {
     /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.body_dot_class {
     background-image: radial-gradient(#bdbab2 0.8px, transparent 0.8px);
     background-size: 25px 25px;
     /*for decoration...*/
     /*cite later: https://css-irl.info/css-halftone-patterns/*/
 }
-
 
 nav menu li a,
 .div_text_paragraph {
@@ -346,3 +348,28 @@ nav a:hover {
     flex-direction: row;
 }*/
 /*Will put the logo side by side w title when there is wide screen mode */
+
+
+
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*This is for the personal page styling and flexboxes solely*/
+
+blockquote {
+    font-style: italic;
+    font-weight: 550;
+    border-right: 1px solid #4a4040;
+    border-top: 1px solid #4a4040;
+    border-bottom: 1px solid #4a4040;
+    padding: 0.5em;
+    border-left: 5px solid #4a4040;
+
+}
+
+.music_section {
+    background-image:
+        linear-gradient(rgba(245, 230, 224, 0.75), rgba(245, 230, 224, 0.75)),
+        url('images/nature.jpg');
+    background-size: cover;
+    background-position: center;
+}
