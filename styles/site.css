@@ -15,10 +15,19 @@ html {
 body {
     color: #4a4040;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    padding: 1em;
+    padding: 2em;
     /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
     max-width: 1000px;
     margin: 0 auto;
+    /*for decoration...*/
+    background-image: radial-gradient(#bdbab2 0.8px, transparent 0.8px);
+    background-size: 25px 25px;
+    /*cite later: https://css-irl.info/css-halftone-patterns/*/
+}
+
+nav menu li a,
+.div_text_paragraph {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 /*mobile-first image settings*/
@@ -141,6 +150,21 @@ footer {
     max-width: 600px;
 }
 
+.skills_pills_list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+    list-style: none; /* Removes the bullet points */
+}
+
+.skills_pills_list li {
+    background-color: #CBD5C0;
+    padding: 8px 16px;
+    border-radius: 50px;
+    font-size: 0.9em;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08); /* Your "lift" shadow */
+}
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
