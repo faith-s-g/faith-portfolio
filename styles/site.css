@@ -137,9 +137,15 @@ footer {
     color: #4a4040;
     border-radius: 20px;
     border: none;
+    border-bottom: none;
     font-size: 16px;
     text-decoration: none;
 
+}
+
+.line_div {
+    border-bottom: 1.25px solid #bdbab2;
+    margin: 1em 0;
 }
 
 .footer_image {
