@@ -367,9 +367,10 @@ blockquote {
 }
 
 .music_section {
+    padding: 1em;
     background-image:
         linear-gradient(rgba(245, 230, 224, 0.75), rgba(245, 230, 224, 0.75)),
-        url('images/nature.jpg');
+        url("../images/pink_flowers_music.jpg");
     background-size: cover;
     background-position: center;
 }
