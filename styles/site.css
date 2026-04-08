@@ -14,7 +14,7 @@ html {
 
 /*general basic fonts, colors, sizes*/
 body {
-    color: #3a3a3a;
+    color: #4a4040;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     border: 1px solid black;
     padding: 1em;
@@ -31,14 +31,15 @@ img {
 
 /*styling nav*/
 nav menu li {
-    text-decoration: none;
     list-style: none;
     font-size: 1.25em;
     border: none;
+
 }
 
 nav menu li a {
     text-decoration: none;
+    color: #4a4040;
 }
 
 menu {
@@ -46,6 +47,10 @@ menu {
     flex-direction: column;
     padding: 0;
     border: none;
+    max-width: 300px;
+    gap: 1rem;
+    margin: 1em auto;
+
 }
 
 nav a {
@@ -53,14 +58,12 @@ nav a {
     padding: 1rem 1rem;
     text-align: center;
     font-weight: 400;
-    background-color: #93c6e0;
+    background-color: #CBD5C0;
     border-radius: 50px;
     color: black;
 }
 
-menu {
-    gap: 1rem;
-}
+
 
 /*this is just to see better*/
 div {
@@ -69,11 +72,20 @@ div {
 
 p {
     border: 1px solid black;
+    background-color: white;
+    padding: 0.75em;
+    border-radius: 8px;
 }
 
 footer {
     border: 1px solid black;
+    padding: 1em;
 }
+
+/*citation to add in later for icon: <a target="_blank" href="https://icons8.com/icon/12580/email">Email</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>*/
+/* <a target="_blank" href="https://icons8.com/icon/12598/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
+/*<a target="_blank" href="https://icons8.com/icon/447/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
+
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*BASIC UTILITY CLASSES*/
@@ -83,16 +95,34 @@ footer {
 
 .home_section {
     padding: 1em;
-    margin: 0;
     background-color: #f5e6e0;
-    /*border-bottom: 1.5px solid #bdbab2;*/
     border-radius: 20px;
-    margin: 10px;
+    margin: 15px 0;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 .footer_class {
-    background-color: #e8e3f3;
-    color: black;
+    background-color: #d4b8b8;
+    color: #4a4040;
+    border-radius: 20px;
+    border: none;
+    font-size: 12px;
+    text-decoration: none;
+
+}
+
+.footer_image {
+    max-width: 40px;
+    height: auto;
+}
+
+.page_title {
+    border-bottom: 1.5px solid #bdbab2;
+    margin-bottom: 1em;
+    padding-bottom: 10px;
+}
+
+.mobile_nav_styling {
+    border-bottom: 1.5px solid #bdbab2;
 }
