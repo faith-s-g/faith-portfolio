@@ -141,6 +141,7 @@ footer {
     max-width: 600px;
 }
 
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
 .footer_inner_flex {
@@ -165,4 +166,20 @@ footer {
 .home_aboutme_flex {
     display: flex;
     flex-direction: column;
+}
+
+/*.header_flex {
+    display: flex;
+    flex-direction: row;
+}*/
+/*Will put the logo side by side w title when there is wide screen mode */
+
+.header_logo_image {
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header h1 {
+    margin-top: 0;
 }
