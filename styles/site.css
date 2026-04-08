@@ -96,7 +96,7 @@ footer {
 }
 
 .home_section {
-    padding: 1.5em;
+    padding: 1.75em;
     background-color: #f5e6e0;
     border-radius: 20px;
     margin: 15px 0;
@@ -105,7 +105,7 @@ footer {
 }
 
 .exp_section {
-    padding: 1.5em;
+    padding: 1.75em;
     background-color: #d6e2e9;
     border-radius: 20px;
     margin: 15px 0;
@@ -129,7 +129,7 @@ footer {
     background-color: #FFFFFF;
     padding: 0.75em;
     border-radius: 8px;
-    font-size: 1.25em;
+    font-size: 1.1em;
 }
 
 .footer_class {
@@ -201,12 +201,49 @@ footer {
     /* yay shadow again*/
 }
 
+
+.header_logo_image {
+    max-width: 200px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.top-content {
+    background-color: #FFFFFF;
+    margin: 0;
+}
+
+header h1 {
+    margin-top: 0;
+}
+
+.nav_logos_small {
+    max-width: 25px;
+    height: auto;
+}
+
+.exp_special_text {
+    border-left: 5px solid #d6e2e9;
+    font-weight: 575;
+    font-style: italic;
+    padding: 0.25em;
+}
+
+
+.club_special_text {
+    border-left: 5px solid #e7dbe8;
+    font-weight: 575;
+    font-style: italic;
+    padding: 0.25em;
+}
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
 .footer_inner_flex {
     display: flex;
     flex-direction: row;
     gap: 0.5em;
+    align-items: center;
 }
 
 .footer_outer_flex {
@@ -240,23 +277,3 @@ footer {
     flex-direction: row;
 }*/
 /*Will put the logo side by side w title when there is wide screen mode */
-
-.header_logo_image {
-    max-width: 200px;
-    height: auto;
-    margin: 0 auto;
-}
-
-.top-content {
-    background-color: #FFFFFF;
-    margin: 0;
-}
-
-header h1 {
-    margin-top: 0;
-}
-
-.nav_logos_small {
-    max-width: 25px;
-    height: auto;
-}
