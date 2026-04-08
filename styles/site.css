@@ -369,7 +369,7 @@ blockquote {
 .music_section {
     padding: 1em;
     background-image:
-        linear-gradient(rgba(245, 230, 224, 0.75), rgba(245, 230, 224, 0.75)),
+        linear-gradient(rgba(245, 230, 224, 0.75), rgba(245, 230, 224, 0.5)),
         url("../images/pink_flowers_music.jpg");
     background-size: cover;
     background-position: center;
