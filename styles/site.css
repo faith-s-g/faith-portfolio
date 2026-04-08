@@ -103,6 +103,26 @@ footer {
     border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
+.exp_section {
+    padding: 1.5em;
+    background-color: #d6e2e9;
+    border-radius: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+
+.club_section {
+    padding: 1.5em;
+    background-color: #e7dbe8;
+    border-radius: 20px;
+    margin: 15px 0;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+
 .div_text_paragraph {
     border: 1px solid #4a4040;
     background-color: #FFFFFF;
