@@ -377,3 +377,9 @@ blockquote {
     font-weight: 500;
     margin-bottom: 0.5em;
 }
+
+.poem {
+    white-space: pre-line;
+    font-size: 12pt;
+    font-family: 'Courier New', Courier, monospace;
+}
