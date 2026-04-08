@@ -278,6 +278,25 @@ header h1 {
     margin: 0;
 }
 
+/*This is to indicate what page you're on when you're on it or when you're clicking the link*/
+nav a.active {
+    background-color: #4e5c4e;
+    font-weight: 700;
+    color: #FFFFFF;
+}
+
+nav a.active img {
+    filter: invert(1);
+    /*needed to change the icon color to white*/
+    /*got from documentation + help in OH*/
+}
+
+nav a:hover {
+    background-color: #a6bda6;
+    /*supposed to work when you're hovering over it*/
+    /*might modify later...*/
+}
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
 .footer_inner_flex {
