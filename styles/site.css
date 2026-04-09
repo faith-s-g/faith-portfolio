@@ -381,5 +381,17 @@ blockquote {
 .poem {
     white-space: pre-line;
     font-size: 12pt;
-    font-family: 'Courier New', Courier, monospace;
+    font-weight: 575;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.poem_what_section {
+    padding: 1em;
+    background-image:
+        linear-gradient(rgba(240, 224, 245, 0.75), rgba(245, 230, 224, 0.8)),
+        url("../images/poetry_flowers_1.jpg");
+    background-size: cover;
+    background-position: center;
+    font-weight: 500;
+    margin-bottom: 0.5em;
 }
