@@ -361,7 +361,7 @@ blockquote {
     border-right: 1px solid #4a4040;
     border-top: 1px solid #4a4040;
     border-bottom: 1px solid #4a4040;
-    padding: 0.5em;
+    padding: 1em;
     border-left: 5px solid #4a4040;
     background-color: #fbdaf0;
 
@@ -375,7 +375,7 @@ blockquote {
     background-size: cover;
     background-position: center;
     font-weight: 500;
-    margin-bottom: 0.5em;
+    /*margin-bottom: 0.5em;*/
 }
 
 .poem {
@@ -393,5 +393,15 @@ blockquote {
     background-size: cover;
     background-position: center;
     font-weight: 500;
-    margin-bottom: 0.5em;
+    /*margin-bottom: 0.5em;*/
+}
+
+.original_music_section {
+    padding: 1em;
+    background-image:
+        linear-gradient(rgba(240, 224, 245, 0.75), rgba(245, 230, 224, 0.8)),
+        url("../images/original_flower.jpg");
+    background-size: cover;
+    background-position: center;
+    font-weight: 500;
 }
