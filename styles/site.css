@@ -433,6 +433,11 @@ figcaption {
     border: 1px solid rgba(0, 0, 0, 0.06);
 }
 
+.personal_flex {
+    display: flex;
+    flex-direction: column;
+}
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*Project PAGE STUFF*/
 
@@ -458,12 +463,12 @@ footer cite a {
 }
 
 footer cite {
-    font-size: 6pt;
+    font-size: 8pt;
     margin: 0;
 }
 
 .in-text-cite {
-    font-size: 6pt
+    font-size: 8pt
 }
 
 .in-text-cite a {
