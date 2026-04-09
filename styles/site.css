@@ -449,3 +449,13 @@ figcaption {
     font-weight: 575;
     padding: 0.25em;
 }
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
+/*Citations*/
+footer cite a {
+    color: #4a4040;
+}
+
+footer cite {
+    font-size: 6pt;
+}
