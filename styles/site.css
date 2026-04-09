@@ -454,8 +454,10 @@ figcaption {
 /*Citations*/
 footer cite a {
     color: #4a4040;
+    margin: 0;
 }
 
 footer cite {
     font-size: 6pt;
+    margin: 0;
 }
