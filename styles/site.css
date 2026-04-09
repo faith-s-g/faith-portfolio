@@ -93,6 +93,11 @@ footer {
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*Style CLASSES*/
+
+.bold {
+    font-weight: 650;
+}
+
 .center {
     text-align: center;
 }
@@ -437,4 +442,10 @@ figcaption {
     margin: 15px 0;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.proj_special_text {
+    border-left: 5px solid #d4b8b8;
+    font-weight: 575;
+    padding: 0.25em;
 }
