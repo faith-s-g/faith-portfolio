@@ -455,6 +455,11 @@ figcaption {
     padding: 0.25em;
 }
 
+.project_flex {
+    display: flex;
+    flex-direction: column;
+}
+
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*Citations*/
 footer cite a {

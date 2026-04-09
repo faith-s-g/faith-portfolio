@@ -54,19 +54,24 @@
         </section>
         <section class="proj_section">
             <h2>Exploring Gambling Behavior in High School Students</h2>
-            <figure class="figure_flex">
-                <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
-                <figcaption> Additional notes: lottery_tck is a binary variable that is 0 if the respondent has not purchased a lottery ticket in the past month and 1 if they have. Similarly, gamb_machine indicates using a gambling machine, and internet_bet indicates online gambling. These logit models allowed us to estimate the impact of factors including age, gender, and family income on the likelihood that an individual has gambled in the past month. </figcaption>
-            </figure>
-            <!--Source: Original Work (Faith Guan)-->
-            <p class="proj_special_text"><span class="bold">Project Overview:</span> In this project, I examined how nature and nurture influence high school students’ likelihood to gamble. These findings could potentially have important policy implications, inform prevention programs, and help identify which student groups are linked to risky behaviors. The 2006 High School Risk Survey, the primary dataset used in this project, includes data from about 4,500 students across 10 Connecticut public high schools. It captures their attitudes toward risk and risky behaviors (drug usage, gambling frequency, alcohol consumption, etc.) and represents the broader population of U.S. public high school students in 2006. Stata and Excel were the primary tools used to analyze and visualize the data.</p>
-            <p class="proj_special_text"> <span class="bold">Key Findings: </span></p>
-            <ul>
-                <li> A single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors </li>
-                <li> Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors </li>
-                <li> There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers </li>
-                <li> Together, these results suggest that gambling prevention should be integrated into both school curricula and substance abuse programs to better support at-risk youth</li>
-            </ul>
+            <div class="project_flex">
+                <figure class="figure_flex">
+                    <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
+                    <figcaption> Additional notes: lottery_tck is a binary variable that is 0 if the respondent has not purchased a lottery ticket in the past month and 1 if they have. Similarly, gamb_machine indicates using a gambling machine, and internet_bet indicates online gambling. These logit models allowed us to estimate the impact of factors including age, gender, and family income on the likelihood that an individual has gambled in the past month. </figcaption>
+                </figure>
+                <!--Source: Original Work (Faith Guan)-->
+                <div>
+                    <p class="proj_special_text"><span class="bold">Project Overview:</span> In this project, I examined how nature and nurture influence high school students’ likelihood to gamble. These findings could potentially have important policy implications, inform prevention programs, and help identify which student groups are linked to risky behaviors. The 2006 High School Risk Survey, the primary dataset used in this project, includes data from about 4,500 students across 10 Connecticut public high schools. It captures their attitudes toward risk and risky behaviors (drug usage, gambling frequency, alcohol consumption, etc.) and represents the broader population of U.S. public high school students in 2006. Stata and Excel were the primary tools used to analyze and visualize the data.</p>
+                    <p class="proj_special_text"> <span class="bold"> Process: </span>First, I created a dependent variable called gambling_hours that represents the number of hours a student spends per week on gambling-related activities. Feature selection was based on available variables in the dataset and factors I believed would have valuable interpretations. The linear regression models I created focused on predicting the number of hours adolescents spend gambling per week based on the given characteristics of the student. Additionally, I created logistic regression models to determine the percentage changes in the odds of a gambling-related event happening given a change in the dependent variables. In the next stage of advanced analysis, my teammates and I employed a two-stage least squares regression along with a likelihood ratio test to better identify causal effects and address potential endogeneity concerns. The selected instrumental variable (IV) was the presence or lack of family drug problems. It is theoretically correlated with student drug usage due to genetics, exposure, and access, thus satisfying the relevance condition necessary for an instrumental variable. </p>
+                </div>
+                <p class="proj_special_text"> <span class="bold">Key Findings: </span></p>
+                <ul>
+                    <li> A single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors </li>
+                    <li> Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors </li>
+                    <li> There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers </li>
+                    <li> Together, these results suggest that gambling prevention should be integrated into both school curricula and substance abuse programs to better support at-risk youth</li>
+                </ul>
+            </div>
             <p class="proj_special_text"> <span class="bold">Models & Tools Used: </span></p>
             <ul class="skills_pills_list">
                 <li>Stata</li>
