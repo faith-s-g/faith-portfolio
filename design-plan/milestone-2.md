@@ -16,7 +16,7 @@
 > Write a paragraph reflecting on your use of GitHub Copilot during this milestone.
 > Your reflection should include how you used GitHub Copilot, how well it worked, what mistakes it made, and how you revised the code to produce a professional quality website from starting with its output. (~5 sentences)
 
-TODO: 1 paragraph
+The only time I used Github copilot for the final result was to generate the basic HTML structure for the content as optionally directed to in step 4. This was very helpful and saved me a lot of time; however, I did have to go over it and change some things that didn't make sense to me (ex. I didn't want the structure to use the "pre" tag) and I had to re-organize it a bit and change the order of things. Interestingly, I did try to use GitHub Copilot for the styling stage (step 5), but it was very unsuccessful. The AI output was incredibly overcomplicated, could not reflect the themes and stylings I wanted, and did not look. Ultimately, I scrapped it and coded the CSS styling on my own.
 
 
 ## References
@@ -24,7 +24,7 @@ TODO: 1 paragraph
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+No collaborators
 
 
 ### Reference Resources
