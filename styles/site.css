@@ -14,7 +14,7 @@ html {
 /*general basic fonts, colors, sizes*/
 body {
     color: #4a4040;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 2em;
     /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
     max-width: 1200px;
