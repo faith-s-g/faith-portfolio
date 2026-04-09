@@ -296,19 +296,33 @@ Source: original work (Faith Guan)
 Note: in the first couple of home page sketches, some personal notes about where I would put a flexbox pop up. That was NOT intended to be a CSS or HTML annotation - it was only for my personal brainstorming and I just forgot to delete it before processing and uploading. Please ignore it.
 
 Page 1/Home page: narrow responsive design
+# NOTE: A few slight edits were made in M2
+- Icon is above the title instead as that's more fitting for narrow screen + will change responsively in wide screen
+- Minor text changes (professional experience becomes experience, title changes, etc.)
+- Minor changes in order (ie putting educational background before skills instead of after)
+- for all pages, footer has icons now and more clear info + link to resume
 ![Image of home screen viewed on a narrow screen/mobile device](../images/home-narrow.jpg)
 Page 1/Home page: wide responsive design
 ![Image of home screen viewed on a wide screen/desktop device](../images/home-wide.jpg)
 Page 2/Professional Experience: narrow responsive design (split into 2 parts)
+# NOTE: A few slight edits were made in M2
+- location, dates of experiences moved inside the main "card" of content for better appearance and neatness
+- Minor text changes as usual
+- Photo goes BELOW each experience instead of above for better context
 ![Image of professional experience screen viewed on a narrow screen/mobile device](../images/experience-narrow-1.jpg)
 ![Image of professional experience screen viewed on a narrow screen/mobile device](../images/experience-narrow-2.jpg)
 Page 2/Professional Experience: wide responsive design
 ![Image of professional experience screen viewed on a wide screen/desktop device](../images/experience-wide.jpg)
 Page 3/Projects: narrow responsive design
+# NOTE: 1 edit made in M2
+- content = 3 projects instead of just 2
 ![Image of projects screen viewed on a narrow screen/mobile device](../images/projects-narrow.jpg)
 Page 3/Projects: wide responsive design
 ![Image of projects screen viewed on a wide screen/desktop device](../images/projects-wide.jpg)
 Page 4/Personal: narrow responsive design (split into 2)
+# NOTE: edits were made in M2
+- Interests are reformatted slightly into a more organized square "card" style
+- volunteering now has no image associated with section
 ![Image of personal page viewed on a narrow screen/mobile device](../images/personal-narrow-1.jpg)
 ![Image of personal page viewed on a narrow screen/mobile device](../images/personal-narrow-2.jpg)
 page 4/Personal: wide responsive design
