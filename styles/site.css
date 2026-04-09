@@ -461,3 +461,11 @@ footer cite {
     font-size: 6pt;
     margin: 0;
 }
+
+.in-text-cite {
+    font-size: 6pt
+}
+
+.in-text-cite a {
+    color: #4a4040;
+}
