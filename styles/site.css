@@ -405,3 +405,19 @@ blockquote {
     background-position: center;
     font-weight: 500;
 }
+
+figcaption a {
+    text-decoration: none;
+    color: #4e5c4e;
+}
+
+
+
+.volunteering_section {
+    padding: 1.75em;
+    background-color: #f5e6e0;
+    border-radius: 20px;
+    margin: 15px 0;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
