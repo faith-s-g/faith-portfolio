@@ -17,7 +17,7 @@ body {
     color: #4a4040;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 2em;
-    /*I know this is technically responsive design BUT instructions said to make sure the body had a max-width to ensure usability*/
+    /*I know this is technically responsive BUT instructions said to make sure the body had a max-width to ensure usability*/
     max-width: 1200px;
     margin: 0 auto;
 }
@@ -25,7 +25,7 @@ body {
 .body_dot_class {
     background-image: radial-gradient(#bdbab2 0.8px, transparent 0.8px);
     background-size: 25px 25px;
-    /*cite later: https://css-irl.info/css-halftone-patterns/*/
+    /*cite: https://css-irl.info/css-halftone-patterns/*/
 }
 
 nav menu li a,
