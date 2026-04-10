@@ -24,7 +24,7 @@ The only time I used Github copilot for the final result was to generate the bas
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-No collaborators
+No collaborators.
 
 
 ### Reference Resources
@@ -33,7 +33,28 @@ No collaborators
 >
 > Provide the URL to the resources you used and include a short description of how you used each resource. Include all prompts for any Ai usage.
 
-TODO: list reference resources
+These reference resources are available online and were also cited in the code:
+- https://css-irl.info/css-halftone-patterns/ - used to help create the background dot pattern across pages
+- https://htmlcolorcodes.com/colors/shades-of-white/ - html color codes for suggestions
+- Used to help figure out background-image property: https://www.w3schools.com/css/css_background_image.asp
+
+Additionally, some GenAI resources were used for design brainstorming and advice:
+- Claude: prompt - How could I style an experience page for a personal project portfoliio that is clear, professional, and elegant? I have used the card format before but want ideas for more options.I just need ideas, not image generation. Additionally, consider only things for mobile-narrow screen devices, I will consider wide screens later.
+  - Reflection: I used this to visually look at some standard options for what mobile designs could look like. However, I spent much more time looking at actual portfolio examples as there are many online, the reason I thought it coulld be helpful to use claude is that some of the online ones were way too busy/crowded or so interactive where it was hard to pick apart the layout. Additionally, the majority of online examples were mostly designed for wide screens not mobile. I used some elements of the claude generated layouts for mental guidance but didn't utilize most of it all (it included things that were too hard for me to implement, like timelines, or that I did not like the look of).
+- Claude: prompt - I have some earthy green and pink tones that I'd like to include in my personal website portfoliio design. What are some other colors that could go in this theme/match? need color palette ideas with hex codes.
+  - Reflection: This was extremely helpful and lots of different swatches of color were generated. I believe I'd try out a few of them but then tweak it using color picker to actually get what I wanted, but nonetheless this resource use was helpful for color guidance and ideas.
+- Claude: prompt - What are some ways to change the opacity of an image in css? Can you do this using hexcodes to change the color?
+  - I couldn't find what I wanted online well enough so I tried using this but didn't end up using the options given. Also I think you can't really use hexcodes to do this anyway.
+- Claude: prompt - Is there a simple way to create some stylistic, asymmetrical overlays in CSS for different elements like a text box over an image?
+  - I wanted to try to create this effect of having some of the text over the images and layered but it was too hard to achieve... and the majority of the claude code generated was not undersatndable to me so I did not want to use it. I now realized after class that you can use the z-indexes but at the time of me making these pages I didn't really know how to do that and still need to work on it more. Did not use this for the project but it was helpful in ruling out options.
+
+
+
+
+
+
+
+
 
 
 [← Table of Contents](journal.md)

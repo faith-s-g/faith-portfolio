@@ -24,7 +24,6 @@ body {
 .body_dot_class {
     background-image: radial-gradient(#bdbab2 0.8px, transparent 0.8px);
     background-size: 25px 25px;
-    /*for decoration...*/
     /*cite later: https://css-irl.info/css-halftone-patterns/*/
 }
 
