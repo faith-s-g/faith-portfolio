@@ -286,7 +286,7 @@ header h1 {
 
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-/*FLEXBOX CLASSES*/
+/*GENERAL FLEXBOX CLASSES*/
 .footer_inner_flex {
     display: flex;
     flex-direction: row;
@@ -327,16 +327,6 @@ header h1 {
     max-width: 600px;
     margin: 0 auto;
 }
-
-/* makes the figure fit the width of the image so the figcaption stays with it */
-
-
-/*.header_flex {
-    display: flex;
-    flex-direction: row;
-}*/
-/*Will put the logo side by side w title when there is wide screen mode */
-
 
 
 
