@@ -304,7 +304,7 @@ header h1 {
 
 .nav_menu_flex {
     display: flex;
-    x flex-direction: column;
+    flex-direction: column;
 }
 
 .nav_inner_flex {
