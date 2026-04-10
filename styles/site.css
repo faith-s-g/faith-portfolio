@@ -11,6 +11,7 @@ html {
     box-sizing: inherit;
 }
 
+/*note this was given in a previoisu assigment and is therefore a course resource*/
 /*general basic fonts, colors, sizes*/
 body {
     color: #4a4040;
@@ -73,25 +74,33 @@ nav a {
     border-radius: 50px;
 }
 
-
-
-/*this is just to see better*/
-/*div {
-    border: 1px solid black;
-}*/
-
+/*NOTE: The heading having plently of space and larger buttons is a design choice - as people on small mobile phones need larger areas to click*/
 
 footer {
     padding: 1em;
 }
 
-/*citation to add in later for icon: <a target="_blank" href="https://icons8.com/icon/12580/email">Email</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>*/
-/* <a target="_blank" href="https://icons8.com/icon/12598/github">GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
-/*<a target="_blank" href="https://icons8.com/icon/447/linkedin">LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
+/*This is to indicate what page you're on when you're on it or when you're clicking the link*/
+nav a.active {
+    background-color: #4e5c4e;
+    /*font-weight: 700;*/
+    color: #FFFFFF;
+}
 
+nav a.active img {
+    filter: invert(1);
+    /*needed to change the icon color to white*/
+    /*got from documentation + help in OH*/
+}
+
+nav a:hover {
+    background-color: #a6bda6;
+    /*supposed to work when you're hovering over it*/
+    /*might modify later...*/
+}
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
-/*Style CLASSES*/
+/*BASIC Style CLASSES*/
 
 .bold {
     font-weight: 650;
@@ -184,21 +193,12 @@ footer {
     max-width: 600px;
 }
 
-/*.club_photos_img {
-    aspect-ratio: 1 / 1;
-    object-fit: cover;
-    width: 100%;
-    max-width: 600px;
-    min-width: 200px;
-    padding: 0;
-}*/
 .club_photos_img {
     border-radius: 12px;
     width: 100%;
     margin: 0 auto;
     display: block;
 }
-
 
 
 figure {
@@ -233,7 +233,6 @@ figure {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
     /* yay shadow again*/
 }
-
 
 .header_logo_image {
     max-width: 200px;
@@ -285,24 +284,6 @@ header h1 {
     margin: 0;
 }
 
-/*This is to indicate what page you're on when you're on it or when you're clicking the link*/
-nav a.active {
-    background-color: #4e5c4e;
-    /*font-weight: 700;*/
-    color: #FFFFFF;
-}
-
-nav a.active img {
-    filter: invert(1);
-    /*needed to change the icon color to white*/
-    /*got from documentation + help in OH*/
-}
-
-nav a:hover {
-    background-color: #a6bda6;
-    /*supposed to work when you're hovering over it*/
-    /*might modify later...*/
-}
 
 /*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
 /*FLEXBOX CLASSES*/
