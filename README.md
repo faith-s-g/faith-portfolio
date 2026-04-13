@@ -7,7 +7,8 @@ Open this repository as a Codespace on GitHub (or as a container in VS Code.)
 Review the **requirements** and follow the **instructions** for each milestone:
 
 [Milestone 1](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m1.md) </br>
-[Milestone 2](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m2.md)
+[Milestone 2](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m2.md)  </br>
+[Milestone 3](https://github.coecis.cornell.edu/info1300-2026sp/resources/blob/master/project/project-m3.md)
 
 ## Design Plan
 
@@ -19,6 +20,8 @@ Document your design and your plan in the [design journal](design-plan/journal.m
 | ------------| ------------------ | ------------------- | ------------------------ |
 | Milestone 1 | Wed 3/25, 11:59pm  | Fri 3/27, 11:59pm   | ~60-80 points            |
 | Milestone 2 | Wed 4/8, 11:59pm  | Fri 4/10, 11:59pm   | ~70-90 points            |
+| Milestone 3 | Wed 4/15, 11:59pm   | Fri 4/7, 11:59pm   | ~60-80 points            |
+
 
 You may use 1-2 slip days (max of 2 slip days) for milestones 1, 2, 3.
 There are 0 slip days available for the final deliverable.
