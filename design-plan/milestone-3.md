@@ -17,9 +17,9 @@
 > Briefly explain each idea. (1 sentence)
 > Note: You may find it easier to sketch for brainstorming. That's fine too. Do whatever you need to do to explore your ideas.
 
-- TODO: idea 1
-- TODO: idea 2
-- TODO: ...
+Modal idea #1: If you click on the project card, it expands into a larger view of the project screenshot with any additional screenshots for context + deeper explanations than are available in the figcaption right now.
+Modal idea #2: On the home page, if you click on "Relevant Courses", it expands to show you more courses organized by category + some key things I learned or did that are applicable in each.
+Modal idea #3: have a modal so when my resume is  clicked, it shows an accessible preview of the pdf. 
 
 
 ## Interactivity Design Ideation
