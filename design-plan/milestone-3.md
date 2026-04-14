@@ -78,7 +78,7 @@ Note: sketch is also meant to include a hover class on the buttons that click to
 
 **Hamburger drop-down navigation menu planning sketches:**
 
-TODO: planning sketch(es)
+![Hamburger planning sketch](../images/hamburger_code_sketch.jpg)
 
 
 ## Interactivity Pseudocode Plan
