@@ -28,6 +28,11 @@ body {
     /*cite: https://css-irl.info/css-halftone-patterns/*/
 }
 
+.title_subscript {
+    font-weight: 300;
+    margin: 0;
+}
+
 nav menu li a,
 .div_text_paragraph {
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
@@ -44,7 +49,7 @@ img {
 /*styling nav*/
 nav menu li {
     list-style: none;
-    font-size: 1.25em;
+    font-size: 1em;
     border: none;
 
 }
@@ -67,7 +72,7 @@ menu {
 
 nav a {
     display: block;
-    padding: 1rem 1rem;
+    padding: 0.5rem 0.5rem;
     text-align: center;
     font-weight: 400;
     background-color: #CBD5C0;
@@ -243,6 +248,11 @@ figure {
 .top-content {
     background-color: #FFFFFF;
     margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    position: relative;
 }
 
 header h1 {
@@ -458,11 +468,16 @@ footer cite {
     width: 35px;
     height: 5px;
     background-color: #CBD5C0;
-    margin: 7px 0;
+    margin: 7px auto;
 }
 
 .hamburger_design {
     background-color: #f3f3f3;
     border: 0.25px solid #b5b3b3;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    width: 50px;
+    position: absolute;
+    /*placed in reference to the "top-content" class"*/
+    top: 40px;
+    right: 0;
 }
