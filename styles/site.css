@@ -355,12 +355,13 @@ blockquote {
 .music_section {
     padding: 1em;
     background-image:
-        linear-gradient(rgba(240, 224, 245, 0.75), rgba(245, 230, 224, 0.8)),
+        linear-gradient(rgba(240, 224, 245, 0.85), rgba(245, 230, 224, 0.85)),
         url("../images/pink_flowers_music.jpg");
     background-size: cover;
     background-position: center;
     font-weight: 500;
     /*margin-bottom: 0.5em;*/
+    color: black;
 }
 
 .poem {
@@ -368,27 +369,30 @@ blockquote {
     font-size: 12pt;
     font-weight: 575;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
 }
 
 .poem_what_section {
     padding: 1em;
     background-image:
-        linear-gradient(rgba(240, 224, 245, 0.75), rgba(245, 230, 224, 0.8)),
+        linear-gradient(rgba(240, 224, 245, 0.85), rgba(245, 230, 224, 0.85)),
         url("../images/poetry_flowers_1.jpg");
     background-size: cover;
     background-position: center;
     font-weight: 500;
+    color: black;
     /*margin-bottom: 0.5em;*/
 }
 
 .original_music_section {
     padding: 1em;
     background-image:
-        linear-gradient(rgba(240, 224, 245, 0.75), rgba(245, 230, 224, 0.8)),
+        linear-gradient(rgba(240, 224, 245, 0.85), rgba(245, 230, 224, 0.85)),
         url("../images/original_flower.jpg");
     background-size: cover;
     background-position: center;
     font-weight: 500;
+    color: black;
 }
 
 figcaption a {
