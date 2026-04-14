@@ -234,6 +234,14 @@ figure {
     margin: 0 auto;
 }
 
+.header_text {
+    margin: 0 auto;
+}
+
+header h1 {
+    margin: 5px;
+}
+
 .top-content {
     background-color: #FFFFFF;
     margin: 0;
@@ -469,4 +477,12 @@ footer cite {
     /*placed in reference to the "top-content" class"*/
     top: 40px;
     right: 0;
+}
+
+#hamburger-button:hover {
+    background-color: #a6bda6;
+
+    .hamburger-line {
+        background-color: white;
+    }
 }
