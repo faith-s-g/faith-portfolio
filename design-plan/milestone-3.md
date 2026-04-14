@@ -133,9 +133,10 @@ when the hamburger button is clicked:
 ```
 on page load (ready):
   if window is narrow:
-  ???  mine: nothing?? isnt the default that it. shoudl be there???
+  add .hidden to #nav-menu
+  remove .hidden from #button?? (this would be CSS media queries so ignore here)
    else if window is wide:
-     mine: remove .hidden from #nav-menu
+     mine: remove .hidden to #nav-menu
 ```
 
 > If the browser window is resized from wide to narrow, the navigation should be hidden.
@@ -144,7 +145,7 @@ on page load (ready):
 ```
 on window resize:
   if window is narrow:
-    what do I do if no hidden is the default???
+    what do I do if show/not hidden is the default??? show is the absence of the hidden class?
   else if window is wide:
    remove .hidden from #nav-menu
 ```
