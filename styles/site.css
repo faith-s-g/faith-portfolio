@@ -449,3 +449,20 @@ footer cite {
 .in-text-cite a {
     color: #4a4040;
 }
+
+
+/*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1*/
+/*Interactive styling for M3 -- */
+.hamburger-line {
+    display: block;
+    width: 35px;
+    height: 5px;
+    background-color: #CBD5C0;
+    margin: 7px 0;
+}
+
+.hamburger_design {
+    background-color: #f3f3f3;
+    border: 0.25px solid #b5b3b3;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
