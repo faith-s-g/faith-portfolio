@@ -65,7 +65,7 @@ Iteration 2 of hamburger menu design: note the change of menu bar from left to r
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience.
 > This should be about a paragraph. (2-3 sentences)
 
-My proposed interactivity through the hamburger menu meets the goals of my site's audience by making the website's content very findable and efficiently accessible, and one of the main goals of someone trying to screen a candidate is to do so effectively but very quickly. For the modal project pop up, this enables the viewer to quickly see a project overview by default, but if they are interested in more details and skills I used then they can click on the image to see more. This fits in with the goals because they can more thoroughly assess my skills by clicking to see more content for each project, but there isn't too much scrolling involved that wastes their time. In conclusion, these interactive designs save time and make things more accessible while allowing people to more effectively understand who I am and my capabilities. 
+My proposed interactivity through the hamburger menu meets the goals of my site's audience by making the website's content very findable and efficiently accessible, and one of the main goals of someone trying to screen a candidate is to do so effectively but very quickly. For the modal project pop up, this enables the viewer to quickly see a project overview by default, but if they are interested in more details and skills I used then they can click on the image to see more. This fits in with the goals because they can more thoroughly assess my skills by clicking to see more content for each project, but there isn't too much scrolling involved that wastes their time. In conclusion, these interactive designs save time and make things more accessible while allowing people to more effectively understand who I am and my capabilities.
 
 
 ## Interactivity Planning Sketches
@@ -73,8 +73,8 @@ My proposed interactivity through the hamburger menu meets the goals of my site'
 > Your planning sketches should include _all_ HTML elements needed for the interactivity; _annotations_ for the element types, their unique IDs, and CSS classes; and lastly the initial CSS classes.
 
 **Modal planning sketches:**
-
-TODO: planning sketch(es)
+![Project Modal planning sketch](../images/planning_modal_sketch.jpg)
+Note: sketch is also meant to include a hover class on the buttons that click to the modal so that users can see an effect indicating that the images can be clicked to go to more details. I just forgot to put it in the writing but it's meant to be there for the button.
 
 **Hamburger drop-down navigation menu planning sketches:**
 
