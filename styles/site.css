@@ -210,17 +210,6 @@ figure {
     margin: 0;
 }
 
-.page_indicator_text {
-    font-weight: 300;
-    text-align: center;
-}
-
-.page_indicator {
-    border-bottom: 1.5px solid #bdbab2;
-    margin: 1em 0;
-    /*border-top: 1.5px solid #bdbab2;*/
-}
-
 /*makes the skills look more consultingy*/
 .skills_pills_list {
     display: flex;
