@@ -28,8 +28,13 @@ Modal idea #3: have a modal so when my resume is  clicked, it shows an accessibl
 > Annotate each sketch explaining what happens when a user takes an action. (e.g. When user clicks this, something else appears.)
 > Do not include HTML/CSS annotations in your sketches!
 
+Iteration 1 of a modal project image popup design:
+
 Iteration 1 of hamburger menu design:
 ![Rough preliminary design sketch for a hamburger menu on mobile devices](../images/hamburger_ideation.jpg)
+
+
+
 
 
 ## Final Interactivity Design Sketches
@@ -37,16 +42,16 @@ Iteration 1 of hamburger menu design:
 > Add annotations to explain what happens when the user takes an action.
 > Include as many sketches as necessary to communicate your design (ask yourself, could another 1300 take these sketches an implement my design?)
 
-Iteration 1 of hamburger menu design: note the change of menu bar from left to right for UX/accessibility reasons!
-![Rough preliminary design sketch for a hamburger menu on mobile devices](../images/final_hamburger_sketch.jpg)
+
 
 **Modal design sketches:**
 
-TODO: final design sketch(es)
+Iteration 2 of a modal project image popup design:
 
 **Hamburger drop-down navigation menu design sketches:**
 
-TODO: final design sketch(es)
+Iteration 2 of hamburger menu design: note the change of menu bar from left to right for UX/accessibility reasons!
+![Rough preliminary design sketch for a hamburger menu on mobile devices](../images/final_hamburger_sketch.jpg)
 
 
 ## Interactivity Rationale
