@@ -29,6 +29,10 @@ Modal idea #3: have a modal so when my resume is  clicked, it shows an accessibl
 > Do not include HTML/CSS annotations in your sketches!
 
 Iteration 1 of a modal project image popup design:
+![Rough preliminary design sketch for a project popup modal](../images/modal_project_ideation.jpg)
+
+Iteration 1 of a modal resume preview popup design in footer:
+![Rough preliminary design sketch for a project popup modal](../images/modal_resume_ideation.jpg)
 
 Iteration 1 of hamburger menu design:
 ![Rough preliminary design sketch for a hamburger menu on mobile devices](../images/hamburger_ideation.jpg)
@@ -46,12 +50,14 @@ Iteration 1 of hamburger menu design:
 
 **Modal design sketches:**
 
+NOTE: I scrapped the resume modal preview feature upon further reflection obecause of how hard it is to view resumes on mobile devices and also because the point of the resume link in footer was to take people to it in another tab, making the modal here redundant and unnecessary.
 Iteration 2 of a modal project image popup design:
+![Final design sketch for a project image modal popup](../images/final_project_modal.jpg)
 
 **Hamburger drop-down navigation menu design sketches:**
 
 Iteration 2 of hamburger menu design: note the change of menu bar from left to right for UX/accessibility reasons!
-![Rough preliminary design sketch for a hamburger menu on mobile devices](../images/final_hamburger_sketch.jpg)
+![Final design sketch for a hamburger menu on mobile devices](../images/final_hamburger_sketch.jpg)
 
 
 ## Interactivity Rationale
@@ -137,7 +143,7 @@ on window resize:
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+No collaborators.
 
 
 ### Reference Resources
