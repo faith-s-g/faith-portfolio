@@ -118,9 +118,9 @@ when #model-proj3-close is clicked:
 ```
 when the hamburger button is clicked:
   if the navigation menu is not visible:
-    TODO: pseudocode
+    mine: remove .hidden from #nav-menu
   else:
-    TODO: pseudocode
+    mine: add .hidden from #nav-menu
 ```
 
 > If the browser window is wide when the page loads, the hamburger button should not be visible.
@@ -133,9 +133,9 @@ when the hamburger button is clicked:
 ```
 on page load (ready):
   if window is narrow:
-    TODO: pseudocode
+  ???  mine: nothing?? isnt the default that it. shoudl be there???
    else if window is wide:
-     TODO: pseudocode
+     mine: remove .hidden from #nav-menu
 ```
 
 > If the browser window is resized from wide to narrow, the navigation should be hidden.
@@ -144,9 +144,9 @@ on page load (ready):
 ```
 on window resize:
   if window is narrow:
-    TODO: pseudocode
+    what do I do if no hidden is the default???
   else if window is wide:
-    TODO: pseudocode
+   remove .hidden from #nav-menu
 ```
 
 
