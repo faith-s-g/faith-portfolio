@@ -111,6 +111,8 @@ when #modal-proj2-close is clicked:
 when #model-proj3-close is clicked:
   add .hidden to #model-overlay-3
 
+
+Note: the following was talked through with the professor who helped approve the hamburger menu pseudocode
 **Hamburger menu pseudocode:**
 
 > Pseudocode to show/hide (toggle) the navigation menu (narrow screens) when the hamburger button is clicked:
@@ -118,9 +120,9 @@ when #model-proj3-close is clicked:
 ```
 when the hamburger button is clicked:
   if the navigation menu is not visible:
-    mine: remove .hidden from #nav-menu
+      remove .hidden from #nav-menu
   else:
-    mine: add .hidden from #nav-menu
+      add .hidden from #nav-menu
 ```
 
 > If the browser window is wide when the page loads, the hamburger button should not be visible.
@@ -133,10 +135,10 @@ when the hamburger button is clicked:
 ```
 on page load (ready):
   if window is narrow:
-  add .hidden to #nav-menu
-  remove .hidden from #button?? (this would be CSS media queries so ignore here)
+      add .hidden to #nav-menu
+  //remove .hidden from #button?? (this would be CSS media queries so ignore here)
    else if window is wide:
-     mine: remove .hidden to #nav-menu
+      remove .hidden to #nav-menu
 ```
 
 > If the browser window is resized from wide to narrow, the navigation should be hidden.
@@ -145,9 +147,9 @@ on page load (ready):
 ```
 on window resize:
   if window is narrow:
-    what do I do if show/not hidden is the default??? show is the absence of the hidden class?
+    add .hidden to #nav-menu
   else if window is wide:
-   remove .hidden from #nav-menu
+    remove .hidden from #nav-menu
 ```
 
 
