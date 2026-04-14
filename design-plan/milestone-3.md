@@ -65,7 +65,7 @@ Iteration 2 of hamburger menu design: note the change of menu bar from left to r
 > Provide a brief rationale explaining how your proposed interactivity addresses the goals of your site's audience.
 > This should be about a paragraph. (2-3 sentences)
 
-TODO: design rationale
+My proposed interactivity through the hamburger menu meets the goals of my site's audience by making the website's content very findable and efficiently accessible, and one of the main goals of someone trying to screen a candidate is to do so effectively but very quickly. For the modal project pop up, this enables the viewer to quickly see a project overview by default, but if they are interested in more details and skills I used then they can click on the image to see more. This fits in with the goals because they can more thoroughly assess my skills by clicking to see more content for each project, but there isn't too much scrolling involved that wastes their time. In conclusion, these interactive designs save time and make things more accessible while allowing people to more effectively understand who I am and my capabilities. 
 
 
 ## Interactivity Planning Sketches
