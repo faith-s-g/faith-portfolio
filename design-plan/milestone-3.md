@@ -90,14 +90,26 @@ Note: sketch is also meant to include a hover class on the buttons that click to
 > Pseudocode to open the modal:
 
 ```
-TODO: pseudocode
+when #project-open-1 is clicked:
+  remove .hidden from #model-overlay-1
+
+when #project-open-2 is clicked:
+  remove .hidden from #model-overlay-2
+
+when #project-open-3 is clicked:
+  remove .hidden from #model-overlay-3
 ```
 
 > Pseudocode to close the modal:
 
-```
-TODO: pseudocode
-```
+when #modal-proj1-close is clicked:
+  add .hidden to #modal-overlay-1
+
+when #modal-proj2-close is clicked:
+  add .hidden to #modal-overlay-2
+
+when #model-proj3-close is clicked:
+  add .hidden to #model-overlay-3
 
 **Hamburger menu pseudocode:**
 
