@@ -73,8 +73,8 @@ My proposed interactivity through the hamburger menu meets the goals of my site'
 > Your planning sketches should include _all_ HTML elements needed for the interactivity; _annotations_ for the element types, their unique IDs, and CSS classes; and lastly the initial CSS classes.
 
 **Modal planning sketches:**
-![Project Modal planning sketch](../images/planning_modal_sketch.jpg)
-Note: sketch is also meant to include a hover class on the buttons that click to the modal so that users can see an effect indicating that the images can be clicked to go to more details. I just forgot to put it in the writing but it's meant to be there for the button.
+![Project Modal planning sketch](../images/multisection_modal_planning_sketch.jpg)
+Note: sketch is also meant to include a hover class on the image/card buttons that click to the modal so that users can see an effect indicating that the images can be clicked to go to more details. I just forgot to put it in the writing but it's meant to be there for the button.
 
 **Hamburger drop-down navigation menu planning sketches:**
 
@@ -90,26 +90,31 @@ Note: sketch is also meant to include a hover class on the buttons that click to
 > Pseudocode to open the modal:
 
 ```
+Note: the reason that I have only that line to open the modal is because I'd put all modal content into one and just choose when to show which based on which project card was picked, which is more similar to what the instructions requested than just having all 3 separate:
+
 when #project-open-1 is clicked:
-  remove .hidden from #model-overlay-1
+  remove .hidden from #modal-overlay
+  remove .hidden from #modal-content-1
+  add .hidden to #modal-content-2
+  add .hidden to #modal-content-3
 
 when #project-open-2 is clicked:
-  remove .hidden from #model-overlay-2
+  remove .hidden from #modal-overlay
+  remove .hidden from #modal-content-2
+  add .hidden to #modal-content-1
+  add .hidden to #modal-content-3
 
 when #project-open-3 is clicked:
-  remove .hidden from #model-overlay-3
+  remove .hidden from #modal-overlay
+  remove .hidden from #modal-content-3
+  add .hidden to #modal-content-1
+  add .hidden to #modal-content-2
 ```
 
 > Pseudocode to close the modal:
 
-when #modal-proj1-close is clicked:
-  add .hidden to #modal-overlay-1
-
-when #modal-proj2-close is clicked:
-  add .hidden to #modal-overlay-2
-
-when #model-proj3-close is clicked:
-  add .hidden to #model-overlay-3
+when #modal-close-button is clicked:
+  add .hidden to #modal-overlay
 
 
 Note: the following was talked through with the professor who helped approve the hamburger menu pseudocode

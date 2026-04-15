@@ -490,3 +490,8 @@ footer cite {
         background-color: white;
     }
 }
+
+.hidden {
+    display: none;
+    !important
+}
