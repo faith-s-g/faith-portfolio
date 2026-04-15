@@ -64,18 +64,6 @@
                     <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
                     <figcaption> Additional notes: lottery_tck is a binary variable that is 0 if the respondent has not purchased a lottery ticket in the past month and 1 if they have. Similarly, gamb_machine indicates using a gambling machine, and internet_bet indicates online gambling. These logit models allowed us to estimate the impact of factors including age, gender, and family income on the likelihood that an individual has gambled in the past month. </figcaption>
                 </figure>
-                <div id="modal-overlay">
-                    <p> The results revealed how a single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors. Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors. There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers. The following table summarizes several OLS regression results and reveals which model features are statistically significant for the dependent variable, hours gambled per week:
-                    </p>
-                    <figure>
-                        <img src="images/gambling_OLS_regs.png" alt="This image shows 2 OLS regressions used">
-                    </figure>
-                    <p> The logit models revealed that family income’s effect on gambling behavior varies across models. In the first two models, the difference between high and low-income students is not statistically significant, with Model 2 showing a slight 2% increase in gambling odds for wealthier students, possibly due to greater disposable income. In Model 3, high family income becomes statistically significant, indicating its influence on specific gambling behaviors. Among nurture factors, being from a middle-income family significantly reduces the odds of gambling, while exposure to adults discussing gambling increases those odds. However, gender, representing a nature/biological factor, consistently has the strongest impact across all models with males being associated with a higher odds of gambling compared to females. </p>
-                    <figure>
-                        <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
-                    </figure>
-                    <p>
-                </div>
                 <!--Source: Original Work (Faith Guan)-->
                 <div>
                     <p class="proj_special_text"><span class="bold">Project Overview:</span> In this project, I examined how nature and nurture influence high school students’ likelihood to gamble. These findings could potentially have important policy implications, inform prevention programs, and help identify which student groups are linked to risky behaviors. The 2006 High School Risk Survey, the primary dataset used in this project, includes data from about 4,500 students across 10 Connecticut public high schools. It captures their attitudes toward risk and risky behaviors (drug usage, gambling frequency, alcohol consumption, etc.) and represents the broader population of U.S. public high school students in 2006. Stata and Excel were the primary tools used to analyze and visualize the data.</p>
@@ -166,6 +154,19 @@
             <!--Source: Original Work (Faith Guan)-->
         </section>
         <div class=" line_div">
+        </div>
+        <div id="modal-overlay">
+            <dialog id="project-modal">
+                <p> The results revealed how a single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors. Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors. There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers. The following table summarizes several OLS regression results and reveals which model features are statistically significant for the dependent variable, hours gambled per week:
+                </p>
+                <figure>
+                    <img src="images/gambling_OLS_regs.png" alt="This image shows 2 OLS regressions used">
+                </figure>
+                <p> The logit models revealed that family income’s effect on gambling behavior varies across models. In the first two models, the difference between high and low-income students is not statistically significant, with Model 2 showing a slight 2% increase in gambling odds for wealthier students, possibly due to greater disposable income. In Model 3, high family income becomes statistically significant, indicating its influence on specific gambling behaviors. Among nurture factors, being from a middle-income family significantly reduces the odds of gambling, while exposure to adults discussing gambling increases those odds. However, gender, representing a nature/biological factor, consistently has the strongest impact across all models with males being associated with a higher odds of gambling compared to females. </p>
+                <figure>
+                    <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
+                </figure>
+            </dialog>
         </div>
     </main>
     <footer class="footer_class">
