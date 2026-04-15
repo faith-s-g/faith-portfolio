@@ -492,8 +492,7 @@ footer cite {
 }
 
 .hidden {
-    display: none;
-    !important
+    display: none !important;
 }
 
 #modal-overlay {
