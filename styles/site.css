@@ -236,6 +236,8 @@ figure {
 
 .header_text {
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 header h1 {
@@ -494,6 +496,34 @@ footer cite {
         flex-direction: row;
         justify-content: center;
         padding: 0.5em;
+    }
+}
+
+@media (min-width: 650px) {
+    #hamburger-button {
+        display: none;
+    }
+
+    .top-content {
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        gap: 1em;
+    }
+
+    .header_text {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .header_logo_image {
+        max-width: 80px;
+        width: auto;
+        margin: 10px;
+        position: absolute;
+        top: -1px;
+        left: 10px;
     }
 }
 
