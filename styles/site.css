@@ -467,6 +467,7 @@ footer cite {
 
 /*media queries*/
 
+/*media query for the NAVIGATION*/
 @media (min-width: 650px) {
     .nav_menu_flex {
         flex-direction: row;
@@ -484,6 +485,15 @@ footer cite {
         width: 150px;
         padding: 0.25rem 0.25rem;
         font-size: 11pt;
+    }
+}
+
+/*media query for the FOOTER*/
+@media (min-width: 650px) {
+    .footer_outer_flex {
+        flex-direction: row;
+        justify-content: center;
+        padding: 0.5em;
     }
 }
 
