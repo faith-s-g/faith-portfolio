@@ -61,7 +61,7 @@
             <h2>Exploring Gambling Behavior in High School Students</h2>
             <div class="project_flex">
                 <figure class="figure_flex">
-                    <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
+                    <button id="proj-button-1"><img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report."> </button>
                     <figcaption> Additional notes: lottery_tck is a binary variable that is 0 if the respondent has not purchased a lottery ticket in the past month and 1 if they have. Similarly, gamb_machine indicates using a gambling machine, and internet_bet indicates online gambling. These logit models allowed us to estimate the impact of factors including age, gender, and family income on the likelihood that an individual has gambled in the past month. </figcaption>
                 </figure>
                 <!--Source: Original Work (Faith Guan)-->
@@ -94,7 +94,7 @@
             <h2>Crime in Chicago</h2>
             <div class="project_flex">
                 <figure class="figure_flex">
-                    <img src=" images/chicago.png" alt="This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code.">
+                    <button id="proj-button-2"><img src=" images/chicago.png" alt="This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code."> </button>
                     <figcaption> Additional notes: This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code. There is a clear positive correlation between a worse/higher ranking (worse test scores, quality of education, etc.) and more gunshot violence. </figcaption>
                 </figure>
                 <!--Source: Original Work (Faith Guan)-->
@@ -123,7 +123,7 @@
             <h2>The Impact of College Choice on Future Earnings</h2>
             <div class="project_flex">
                 <figure class="figure_flex">
-                    <img src=" images/college_reg_results.png" alt="This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code.">
+                    <button id="proj-button-3"><img src=" images/college_reg_results.png" alt="This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code."> </button>
                     <figcaption> Additional notes: We conducted an ordinary least squares regression analysis using a dataset that combines data from IPEDS and the Wall Street Journal College Salary Report to predict the log transformed mid-career salary. The goal was to identify how university related factors – such as university selectivity, tuition, region, and financial diversity – affect future salaries. The dependent variable is the log of mid-career salary, and the explanatory variables include college characteristics like tuition, selectivity, enrollment, and financial aid distribution.
                     </figcaption>
                 </figure>
@@ -157,6 +157,7 @@
         </div>
         <div id="modal-overlay">
             <dialog id="project-modal" open>
+                <button id="modal-close">X</button>
                 <div id="modal-content-1">
                     <p> The results revealed how a single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors. Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors. There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers. The following table summarizes several OLS regression results and reveals which model features are statistically significant for the dependent variable, hours gambled per week:
                     </p>
