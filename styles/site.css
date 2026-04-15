@@ -495,3 +495,51 @@ footer cite {
     display: none;
     !important
 }
+
+#modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.6);
+    /*transparency so you can see the back behind it still? I didn't want it to be too opaque*/
+    z-index: 1;
+    /*use flexbox to make the actual modal-looking ting in the middle*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#project-modal {
+    background-color: white;
+    border-radius: 15px;
+    padding: 1.5em;
+    max-width: 90%;
+    max-height: 80vh;
+    /*can't exceed viewport height*/
+    overflow-y: auto;
+    /*had to add a scrollbar for if there was too much content*/
+    z-index: 2;
+    position: relative;
+    /*this above is so the x button can be on the top right instead, similar to how I did it w the menu bar*/
+}
+
+#modal-close {
+    position: sticky;
+    /*want the X to always be seen*/
+    top: 0;
+    float: right;
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    /*so your mouse turns into a pointer finger over it*/
+    cursor: pointer;
+    color: #4a4040;
+    z-index: 3;
+}
+
+#modal-close:hover {
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
