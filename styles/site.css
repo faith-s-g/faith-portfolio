@@ -18,7 +18,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     padding: 2em;
     /*I know this is technically responsive BUT instructions said to make sure the body had a max-width to ensure usability*/
-    max-width: 1200px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
@@ -333,7 +333,7 @@ header h1 {
     display: flex;
     flex-direction: column;
     align-items: center;
-    max-width: 600px;
+    max-width: 750px;
     margin: 0 auto;
 }
 
@@ -531,7 +531,7 @@ footer cite {
     }
 }
 
-/*media query for the body content*/
+/*media query for the body content on home page*/
 @media (min-width: 700px) {
     .home_aboutme_flex {
         flex-direction: row;
@@ -546,8 +546,32 @@ footer cite {
         margin: 1em;
     }
 
-    .home_section .div_text_paragraph {
+    .div_text_paragraph {
         font-size: 12.5pt;
+    }
+}
+
+/*media query for project content*/
+@media (min-width: 700px) {
+    .figure_flex {
+        flex-direction: row;
+        align-items: flex-start;
+        gap: 1em;
+    }
+
+    .figure_flex figcaption {
+        flex: 1;
+        font-size: 0.75em;
+    }
+
+    .figure_flex button {
+        flex: 3;
+    }
+
+    .figure_flex button img {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
     }
 }
 
@@ -602,9 +626,9 @@ footer cite {
 #project-modal {
     background-color: white;
     border-radius: 15px;
-    padding: 1.5em;
+    padding: 2em;
     max-width: 90%;
-    max-height: 80vh;
+    max-height: 90vh;
     /*can't exceed viewport height*/
     overflow-y: auto;
     /*had to add a scrollbar for if there was too much content*/
@@ -626,6 +650,7 @@ footer cite {
     color: #4a4040;
     z-index: 3;
 }
+
 
 #modal-close:hover {
     font-weight: 600;
