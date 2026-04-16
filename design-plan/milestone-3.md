@@ -141,7 +141,6 @@ when the hamburger button is clicked:
 on page load (ready):
   if window is narrow:
       add .hidden to #nav-menu
-  //remove .hidden from #button?? (this would be CSS media queries so ignore here)
    else if window is wide:
       remove .hidden to #nav-menu
 ```
