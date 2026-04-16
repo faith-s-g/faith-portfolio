@@ -539,8 +539,8 @@ footer cite {
 
     .home_headshot_img {
         display: block;
-        width: 50%;
-        max-width: 500px;
+        flex-grow: 1;
+        max-width: 700px;
         min-width: 300px;
         height: auto;
         margin: 1em;
@@ -549,7 +549,12 @@ footer cite {
     .div_text_paragraph {
         font-size: 12.5pt;
     }
+
+    .home_aboutme_flex div {
+        flex-grow: 2;
+    }
 }
+
 
 /*media query for project content*/
 @media (min-width: 700px) {
