@@ -171,7 +171,7 @@ No collaborators.
 >
 > Provide the URL to the resources you used and include a short description of how you used each resource.
 
-TODO: list reference resources
+N/A
 
 
 [← Table of Contents](journal.md)
