@@ -523,7 +523,7 @@ footer cite {
     .header_logo_image {
         max-width: 9%;
         width: auto;
-        min-width: px;
+        min-width: 15px;
         margin: 10px;
         position: absolute;
         top: -1px;
@@ -628,12 +628,11 @@ footer cite {
 
 #hamburger-button:hover {
     background-color: #a6bda6;
-
-    .hamburger-line {
-        background-color: white;
-    }
-
     cursor: pointer;
+}
+
+#hamburger-button:hover .hamburger-line {
+    background-color: white;
 }
 
 .hidden {
