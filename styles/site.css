@@ -470,7 +470,7 @@ footer cite {
 /*media queries*/
 
 /*media query for the NAVIGATION*/
-@media (min-width: 650px) {
+@media (min-width: 700px) {
     .nav_menu_flex {
         flex-direction: row;
         justify-content: center;
@@ -491,7 +491,7 @@ footer cite {
 }
 
 /*media query for the FOOTER*/
-@media (min-width: 650px) {
+@media (min-width: 700px) {
     .footer_outer_flex {
         flex-direction: row;
         justify-content: center;
@@ -499,7 +499,7 @@ footer cite {
     }
 }
 
-@media (min-width: 650px) {
+@media (min-width: 700px) {
     #hamburger-button {
         display: none;
     }
@@ -518,8 +518,9 @@ footer cite {
     }
 
     .header_logo_image {
-        max-width: 80px;
+        max-width: 9%;
         width: auto;
+        min-width: px;
         margin: 10px;
         position: absolute;
         top: -1px;
