@@ -627,6 +627,8 @@ footer cite {
     .hamburger-line {
         background-color: white;
     }
+
+    cursor: pointer;
 }
 
 .hidden {
@@ -680,4 +682,11 @@ footer cite {
 #modal-close:hover {
     font-weight: 600;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+#proj-button-1,
+#proj-button-2,
+#proj-button-3 {
+    cursor: pointer;
 }
