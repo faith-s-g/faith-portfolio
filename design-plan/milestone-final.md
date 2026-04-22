@@ -24,7 +24,7 @@ For Hamburger menu:
 For modal:
 - This functionally is really good because it helps the target audience view project details more efficiently but also reduces clutter on the page in case they just wanted to skim over projects
 - This design effectively uses affordances because images look clickable and use curser: point, which helps users figure out how to use it, and this is also a familiar design used by most buttons/clickable items
-- The relevant parts of the design are visibl (ie button images are visible) and once you click on a button there is immediate feedback as the modal opens up. 
+- The relevant parts of the design are visibl (ie button images are visible) and once you click on a button there is immediate feedback as the modal opens up.
 
 
 ## Grading Interactivity
@@ -51,7 +51,7 @@ TODO: anything else?
 ## Self-Reflection
 > Reflect on what you learned during this entire project. How have you improved from the beginning of the semester? What would you do differently next time? (2-3 sentences)
 
-TODO: reflection
+I think the first thing that I learned in this project is how much planning goes into building an effective website, and that steady planning makes bigger undertakings feel way more doable and approachable. The skills I learned - like how to design things mobile first, then implement responsiveness, etc. are really things that made web design feel a lot easier to me as a beginner who had never done it before. I think what I might do differently next time is be more creative/look up even more examples to get out of my comfort zone when it comes to layout or design ideas, as I typically have a preference for minimalist designs and pastel colors, but I think it could just be nice to work on designs that are more flashy or different. 
 
 
 ## References
