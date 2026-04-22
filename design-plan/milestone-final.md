@@ -17,7 +17,14 @@
 > Explain how your interactivity's design effectively uses affordances, visibility, feedback, and familiarity.
 > Write a paragraph (3-4 sentences)
 
-TODO: interactivity rationale
+For Hamburger menu:
+- This functionally improves the user's experience because it saves a lot of screen space in narrow mode, like they have to scroll down to see the page's contents way less since the nav buttons don't show up unless you click the menu button, and it makes it very easy to navigate once you click the menu button in narrow mode.
+- This design effectively uses affordances because the design (3 horizontal bars), are very consistently used across different platforms and apps for these type of navigation features, so it suggests that to users. The relevant parts of the design are all visible and it makes the nav buttons show up, there is sufficient feedback because not only does the appearance of the button change when you hover/click but the nav buttons will immediately spawn or collapse so the user knows the button has an effect, and it is a very familiar design pattern for the same reasons I listed previously.
+
+For modal:
+- This functionally is really good because it helps the target audience view project details more efficiently but also reduces clutter on the page in case they just wanted to skim over projects
+- This design effectively uses affordances because images look clickable and use curser: point, which helps users figure out how to use it, and this is also a familiar design used by most buttons/clickable items
+- The relevant parts of the design are visibl (ie button images are visible) and once you click on a button there is immediate feedback as the modal opens up. 
 
 
 ## Grading Interactivity
