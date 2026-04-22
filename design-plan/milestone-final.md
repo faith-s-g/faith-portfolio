@@ -25,7 +25,14 @@ TODO: interactivity rationale
 > **We will only grade what you list here;** if it's not listed here, we won't grade it. **No exceptions.**
 > At minimum, you should tell use which modal to grade (you only need one), where to find it, and how to use it.
 
-TODO: where and how to use your interactivity
+Interactive Element #1: The hamburger menu
+- It is present on every single page (home, personal, projects, and experience) since it is a part of the navigation in the header
+- You use it if you would like to pull up the navigation and go to a different page when you are in narrow screen/mobile mode. In wide screen, it is important to note that the hamburger icon should disappear, as the nav buttons will be visible at all times. Clicking on the menu button should make the nav buttons appear, and clicking again shoudl make them collapse and disappear.
+
+Interactive Element #2: The modal is on the experience page
+- You can use it by clicking on any of the 3 buttons - the buttons are the images at the top of each project
+- Once you click on one of them, certain images/text of the modal will pop up showing the project in greater detail
+- Even though there are 3 buttons to trigger the opening of a modal, I believe this still counts as just one modal
 
 
 ## Anything Else We Should Know (Optional)
@@ -45,7 +52,7 @@ TODO: reflection
 ### Collaborators
 > List any persons you collaborated with on this project.
 
-TODO: list your collaborators
+None
 
 
 ### Reference Resources
