@@ -15,15 +15,15 @@ $("#hamburger-button").on("click", function () { // ← click event
 }); // ← click event
 
 //page loading code
-$("index.html").ready(function () { // ← page ready event
+$(document).ready(function () { // ← page ready event
 
-    if (window.matchMedia("(max-width: 700)").matches) { // ← get browser width
+    if (window.matchMedia("(max-width: 700px)").matches) { // ← get browser width
         // ↓ action snippets (< width) ↓
         $("#nav-menu").addClass("hidden");
         // ↑ action snippets (< width) ↑
     } else { // ← get browser width
         // ↓ action snippets (> width) ↓
-        $("#nav-menu").addClass("hidden");
+        $("#nav-menu").removeClass("hidden");
         // ↑ action snippets (> width) ↑
     } // ← get browser width
 }); // ← page ready event
@@ -39,7 +39,7 @@ $("index.html").ready(function () { // ← page ready event
 $(window).on("resize", function () { // ← resize browser window event
 
     // ↓ action snippets ↓
-    if (window.matchMedia("(max-width: 700)").matches) { // ← get browser width
+    if (window.matchMedia("(max-width: 700px)").matches) { // ← get browser width
         // ↓ action snippets (< width) ↓
         $("#nav-menu").addClass("hidden");
         // ↑ action snippets (< width) ↑
