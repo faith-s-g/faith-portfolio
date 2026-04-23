@@ -174,10 +174,9 @@ nav a:hover {
 }
 
 .page_title {
-    border-bottom: 1.25px solid #bdbab2;
-    margin-bottom: 1em;
-    padding-bottom: 25px;
-    font-weight: 200;
+    font-weight: 300;
+    font-size: 16pt;
+    border: none;
 }
 
 .mobile_nav_styling {
