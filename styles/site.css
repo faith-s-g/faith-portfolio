@@ -468,6 +468,13 @@ footer cite {
 
 /*media queries*/
 
+/*media query for the page titles*/
+@media (min-width: 700px) {
+    .page_title {
+        display: none;
+    }
+}
+
 /*media query for the NAVIGATION*/
 @media (min-width: 700px) {
     .nav_menu_flex {
