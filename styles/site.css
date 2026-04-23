@@ -695,3 +695,9 @@ footer cite {
 #proj-button-3 {
     cursor: pointer;
 }
+
+/*modal pop up styling*/
+.modal_image {
+    border: 1px solid #4a4040;
+    padding: 0.5em;
+}
