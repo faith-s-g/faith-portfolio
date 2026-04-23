@@ -157,9 +157,9 @@
         </div>
         <!--Key notes: I followed the hint in the instructions given, which is, which parts of the modal inner content get unhidden upon clicking will depend on what project cards get clicked on later. This was approved by Prof. Westwater, with whom I discussed this idea.-->
         <div id="modal-overlay" class="hidden">
-            <dialog id="project-modal" class="hidden">
+            <dialog id="project-modal">
                 <button id="modal-close">X</button>
-                <div id="modal-content-1">
+                <div id="modal-content-1" class="hidden">
                     <p> The results revealed how a single classroom session on gambling risks reduces adolescent gambling by about 12 minutes per week, demonstrating that brief, evidence-based lessons in health classes can indeed be effective at reducing risky behaviors. Adolescents who frequently overhear adults discussing gambling tend to gamble approximately 18 minutes more weekly, highlighting how environmental factors can unintentionally normalize gambling behaviors. There is also a strong link between substance use and gambling, with drug-using adolescents gambling about 1.6 hours more per week than their peers. The following table summarizes several OLS regression results and reveals which model features are statistically significant for the dependent variable, hours gambled per week:
                     </p>
                     <figure>
@@ -170,7 +170,7 @@
                         <img src=" images/gambling_regs.png" alt="This image shows the 3 main regression models used in the report.">
                     </figure>
                 </div>
-                <div id="modal-content-2">
+                <div id="modal-content-2" class="hidden">
                     <figure>
                         <img src=" images/chicago.png" alt="This graph depicts the correlation between # of gunshot wounds and educational ranking by zip code.">
                     </figure>
@@ -184,7 +184,7 @@
 
                         Regarding subquestion 2, we hypothesized that there was a positive linear relationship between the frequency of gunshot violence and higher educational rank (indicating worse test scores). Using a linear regression model, we analyzed the effect of “AverageRank” on gunshot violence frequency, writing a function to run the process for each year. We first used scikit-learn to split each year’s data into a training set (80%) and a test set (20%), calculated the coefficient and intercept, and confirmed through residual plots that the data was randomly distributed and not heteroskedastic. We then used statsmodels OLS regression to assess statistical significance. For every year, the p-value of the coefficient was under 0.05 and close to 0, supporting rejection of the null hypothesis. Model performance was evaluated with RMSE and MAE for the test set and through six-fold cross-validation, with low values indicating good generalization. Results showed that a one-unit increase in AverageRank corresponded to an increase in gunshot occurrences equal to the coefficient. For example, in 2011–2012, a coefficient of 1.767 and an intercept of −9.875 indicated that a one-unit rise in AverageRank was predicted to increase gunshot occurrences by 1.767. Overall, the findings suggested that lower ranked schools were associated with higher occurrences of gunshot-related incidents. </p>
                 </div>
-                <div id="modal-content-3">
+                <div id="modal-content-3" class="hidden">
                     <p> A linear regression model was chosen due to its simplicity and interpretability. Before creating the linear regression model, the four key assumptions of ordinary least squares (OLS) regression were verified: linearity between predictors and the response variable, normally distributed residuals, constant variance of residuals (homoscedasticity), and absence of multicollinearity among predictors. This was supported through data transformations, visual diagnostics, and structural checks to ensure the model’s validity. The below visualizations illustrate how the key assumptions of linear regression were satisfied: </p>
                     <figure>
                         <img src="images/linear_assumptions_image.png" alt="This image shows visualizations that tested assumptions of linear regression">
@@ -231,6 +231,8 @@
         </div>
         <p class="center"><cite> <a target="_blank" href="https://icons8.com/icon/12580/email">Email</a> icon by <a target="_blank" href="https://icons8.com"> Icons8</a>, <a target="_blank" href="https://icons8.com/icon/12598/github"> GitHub</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>,<a target="_blank" href="https://icons8.com/icon/447/linkedin"> LinkedIn</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, <a target="_blank" href="https://icons8.com/icon/23877/resume"> Resume</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, <a target="_blank" href="https://icons8.com/icon/73/home">Home</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, <a target="_blank" href="https://icons8.com/icon/123838/briefcase-settings">Experience</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, <a target="_blank" href="https://icons8.com/icon/53380/project">Project</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>, <a target="_blank" href="https://icons8.com/icon/31047/person">Person</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a></cite></p>
     </footer>
+    <script src="scripts/jquery-3.7.1.js"></script>
+    <script src="scripts/modal.js"></script>
 </body>
 
 </html>

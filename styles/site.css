@@ -655,6 +655,7 @@ footer cite {
 }
 
 #project-modal {
+    display: block;
     background-color: white;
     border-radius: 15px;
     padding: 2em;
