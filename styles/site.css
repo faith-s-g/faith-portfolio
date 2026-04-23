@@ -512,7 +512,6 @@ footer cite {
         display: none;
     }
 
-    /*Would this be done in javascript?? Shoudl it show up on wide screen still for this milestone?*/
 
     .top-content {
         flex-direction: row;
@@ -554,7 +553,7 @@ footer cite {
     }
 
     .div_text_paragraph {
-        font-size: 12.5pt;
+        font-size: 13pt;
     }
 
     .home_aboutme_flex div {
