@@ -129,7 +129,7 @@ when the hamburger button is clicked:
   else:
       add .hidden from #nav-menu
 ```
- 
+
 > If the browser window is wide when the page loads, the hamburger button should not be visible.
 > Showing and hiding the hamburger button should be accomplished using media queries.
 >
