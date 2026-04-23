@@ -16,7 +16,7 @@ $("#hamburger-button").on("click", function () { // ← click event
 
 //page loading code
 $(document).ready(function () { // ← page ready event
-
+    console.log("loads")
     if (window.matchMedia("(max-width: 700px)").matches) { // ← get browser width
         // ↓ action snippets (< width) ↓
         $("#nav-menu").addClass("hidden");
