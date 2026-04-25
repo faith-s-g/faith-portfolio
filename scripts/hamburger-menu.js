@@ -30,12 +30,6 @@ $(document).ready(function () { // ← page ready event
 
 
 //page resizing code
-//on window resize:
-// if window is narrow:
-//  add .hidden to #nav-menu
-// else if window is wide:
-// remove .hidden from #nav-menu
-
 $(window).on("resize", function () { // ← resize browser window event
 
     // ↓ action snippets ↓
