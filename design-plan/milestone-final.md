@@ -24,7 +24,7 @@ For Hamburger menu:
 For modal:
 - This functionally is really good because it helps the target audience view project details more efficiently but also reduces clutter on the page in case they just wanted to skim over projects
 - This design effectively uses affordances because images look clickable and use curser: point, which helps users figure out how to use it, and this is also a familiar design used by most buttons/clickable items
-- The relevant parts of the design are visibl (ie button images are visible) and once you click on a button there is immediate feedback as the modal opens up.
+- The relevant parts of the design are visible (i.e. button images are visible) and once you click on a button there is immediate feedback as the modal opens up.
 
 
 ## Grading Interactivity
@@ -38,7 +38,7 @@ Interactive Element #1: The hamburger menu
 
 Interactive Element #2: The modal is on the PROJECTS page
 - You can use it by clicking on any of the 3 buttons - the buttons are the images at the top of each project
-- Once you click on one of them, certain images/text of the modal will pop up showing the project in greater detail... all the project content is put into a single modal, it's just that different sections of the content are hidden or unhidden depending on which project button you click
+- Once you click on one of them, certain images/text of the modal will pop up showing the project in greater detail... all the project content is put into a single modal, it's just that different sections of the content are hidden or unhidden depending on which project button you click (even though they are all part of one modal). Therefore, grading any or all of the project modal cards will be sufficient. This was discussed in class and prior assignments as the most efficient way to have this kind of modal. 
 - Even though there are 3 buttons to trigger the opening of a modal, this still counts as just one modal according to the instructions & what professor westwater mentioned in class
 
 
