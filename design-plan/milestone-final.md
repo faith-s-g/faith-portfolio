@@ -34,18 +34,18 @@ For modal:
 
 Interactive Element #1: The hamburger menu
 - It is present on every single page (home, personal, projects, and experience) since it is a part of the navigation in the header
-- You use it if you would like to pull up the navigation and go to a different page when you are in narrow screen/mobile mode. In wide screen, it is important to note that the hamburger icon should disappear, as the nav buttons will be visible at all times. Clicking on the menu button should make the nav buttons appear, and clicking again shoudl make them collapse and disappear.
+- You use it if you would like to pull up the navigation and go to a different page when you are in narrow screen/mobile mode. In wide screen, it is important to note that the hamburger icon should disappear, as the nav buttons will be visible at all times. Clicking on the menu button should make the nav buttons appear, and clicking again should make them collapse and disappear.
 
-Interactive Element #2: The modal is on the experience page
+Interactive Element #2: The modal is on the PROJECTS page
 - You can use it by clicking on any of the 3 buttons - the buttons are the images at the top of each project
-- Once you click on one of them, certain images/text of the modal will pop up showing the project in greater detail
-- Even though there are 3 buttons to trigger the opening of a modal, I believe this still counts as just one modal
+- Once you click on one of them, certain images/text of the modal will pop up showing the project in greater detail... all the project content is put into a single modal, it's just that different sections of the content are hidden or unhidden depending on which project button you click
+- Even though there are 3 buttons to trigger the opening of a modal, this still counts as just one modal according to the instructions & what professor westwater mentioned in class
 
 
 ## Anything Else We Should Know (Optional)
 > Is there anything else you want to tell us that we should know when grading your website? (1-2 sentences)
 
-N/A
+Scrolling is not required to open the modal, as outlined in the instructions. However, each project's triggered modal includes internal scrolling by design. Because the modal presents a more in-depth view of each project, the additional content and images make an internal scroll feature both logical and functional. This design choice was approved by Professor Westwater for this class and final project.
 
 
 ## Self-Reflection
